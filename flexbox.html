@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head><title>flexbox practice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
+    
+    <style>
+      .header{
+        height: 50px;
+        border-color: gray;
+        border-style: solid;
+        border-width: 2px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .eoeoe{
+        display: flex; 
+        flex-direction: row;
+        margin-top: 10px; 
+        justify-content: space-between;
+        padding-bottom: 6px;
+      }
+    .eoeoer{
+        height: 50px;
+        background-color: rgba(175, 68, 175, 0.904);
+        border-style: solid;
+        border-width: 1px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 9px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border: none;
+    }
+    .someone{
+      border-radius: 100px;
+      padding-right: 300px;
+      padding-left: 50px;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      border: none;
+      font-size: 15px;
+      
+    }
+   
+    .something{
+      border-color: white;
+      border-style: solid;
+      background-color: rgba(175, 68, 175, 0.904);
+      color: white;
+      font-size: 19px;
+      border-width: 1px;
+    }
+
+    </style>
+  </head>
+  <body>
+    <div style="display: flex; flex-direction: row;">
+      <div style="background-color: lightblue; width: 200px;">
+        200px
+      </div>
+      <div style="background-color: lightpink; width: 75px;">
+        75px
+      </div>
+    </div>
+    <div style="display: flex; flex-direction:row;">
+      <div style="background-color:lightblue; width: 50px;">
+        item 1
+      </div>
+      <div style="background-color: lightpink; flex: 1;">
+        item 2
+      </div>
+      <div style="background-color: lightblue; width: 75px">
+        item 3
+      </div>
+    </div>
+    <div style="display: flex; flex-direction:row; justify-content: space-between;">
+      <div style="background-color:lightblue; width: 50px;">
+        item 1
+      </div>
+      <div style="background-color:lightblue; width: 50px;">
+        item 2
+      </div>
+      <div style="background-color:lightblue; width: 50px;">
+        item 3
+        </div>
+        <div style="background-color:lightblue; width: 50px;">
+          item 4
+      </div> 
+    </div>
+    <div class="header">
+      <div style="background-color:lightblue;">
+        item 1
+      </div>
+      <div style="background-color: lightpink;">
+        item 2
+      </div>
+    </div>
+    <div style="border-style:solid;border-width: 1px;height: 100px; border-color: grey; margin-top: 7px;padding-left: 4px;padding-right: 4px; ">
+      <div class="eoeoe">
+        <div>
+         <strong>Home</strong>  
+        </div>
+        <div>
+          <botton style="border: none; border-radius: 100px; background-color:blue; color:white; padding-left: 15px; padding-right: 15px; padding-bottom: 2px; padding-top: 2px;">
+            14
+          </botton>
+        </div>
+      </div>
+      <div class="eoeoe">
+        <div>
+          <strong>Messages</strong> 
+        </div>
+        <div>
+          <button style="border: none; border-radius: 100px; background-color:blue; color:white; padding-left: 15px; padding-right: 15px; padding-bottom: 2px; padding-top: 2px;">
+            <strong>3</strong> 
+          </button> 
+        </div>
+      </div>
+      <div class="eoeoe">
+       <div>
+        <strong>Notification</strong>
+       </div>
+       <div>
+          <button style="border: none; border-radius: 100px; background-color:blue; color:white; padding-left: 15px; padding-right: 15px; padding-bottom: 2px; padding-top: 2px;">
+           <strong>5</strong> 
+          </button>
+       </div> 
+      </div>
+    </div>
+  <div class="eoeoer">
+    <div style="color: white; font-weight: bold; ">
+      Home  
+    </div>
+    <div>
+      <input class="someone" type="text" placeholder="Search">
+    </div>
+    <div>
+      <button class="something">
+        Download
+      </button>
+    </div>
+
+  </div>
+  </body>
+</html>

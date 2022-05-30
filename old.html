@@ -3,11 +3,8 @@
   <head>
     <style>
       .image{
-        width: 200px;
-        height: 200px;
-        object-fit: contain;
-        margin-left: 1px;
-        margin-bottom: 5px;
+        width: 100%;
+
       }
       .name{
         font-family: 'Times New Roman', Times, serif;
@@ -17,15 +14,16 @@
       }
       .profile{
         box-shadow: 0 0 10px rgba(0,0,0,0.3);
-        width: 200px;
-        display: inline-block;
+        
+      
+        
       }
       .mutual{
         font-family: 'Times New Roman', Times, serif;
         color: rgb(100, 100, 100);
-  margin-left: 8px;
-  margin-bottom: 12px;
-  font-size: 20px;
+        margin-left: 8px;
+        margin-bottom: 12px;
+        font-size: 20px;
       }
       .friend{
         background-color:  rgb(24, 119, 242);
@@ -39,19 +37,19 @@
         padding-left: 6px;
         padding-right: 6px;
         margin-left: 8px;
-  margin-bottom: 12px
+        margin-bottom: 12px
       }
      .profile2{
-       width: 200px;
        box-shadow: 0px 0px 10px rgba(0,0,0,0.15);
-       display: inline-block;
-       margin-left: 9px;
-       vertical-align: top;
+
      }
       .picture{
-       height: 200px;
+      
        width: 200px;
-       object-fit: contain;
+       height: 200px;
+      object-fit: cover;
+      margin-bottom: 12px;
+     
        
      }
      .namesss{
@@ -79,21 +77,72 @@
       margin-bottom: 10px;
 
      }
+     .gridbox{
+       display: grid;
+       grid-template-columns: 200px 200px 200px;
+       column-gap: 20px;
+       padding-bottom: 10px;
+       
+     }
+     .video-grip-profile{
+        display: grid;
+        grid-template-columns:  1fr;
+     }
     </style>
   </head>
   <body>
-    <div class="profile">
-      <img class="image" 
-      src="thumbnails/thumbnail-1.webp">
-      <P class="name">Oliver</P>
-      <p class="mutual"> 2 mutual friends</p>
-      <button class="friend" > Add Friend</button>
+    <div class="gridbox">
+      <div class="profile">
+        <div>
+          <img 
+          class=
+          "picture" 
+          src=
+          "thumbnails/thumbnail.webp.JPG">
+        </div>
+        <div class="video-grip-profile">
+          <p class="name"> 
+            Oliver
+          </p>
+          <p class="mutual">
+            2 mutual friends
+          </p>
+          <button class="buttons">
+            Add Friend
+          </button>
+        </div>
+        
+      </div> 
+      <div class="profile">
+        <div>
+            <img class="picture" 
+            src="thumbnails/thumbnail-1.webp">
+        </div>
+        <div class="video-grip-profile">
+          <P 
+            class="name">
+            Oliver
+          </P>
+          <p 
+            class="mutual"> 2 mutual friends
+          </p>
+          <button 
+            class="friend" > Add Friend
+          </button>
+        </div>
+      </div>
+
+      <div class="profile2">
+        <div>
+          <img class="picture" src="thumbnails/thumbnail.webp">
+        </div>
+        <div class="video-grip-profile">
+          <p class="namesss">mimi</p>
+          <p class="mutualsss">3 mutual friends</p>
+          <button class="buttons"> Add Friend</button>
+        </div>
+      </div>
     </div>
-    <div class="profile2">
-      <img class="picture" src="thumbnails/thumbnail.webp">
-      <p class="namesss">mimi</p>
-      <p class="mutualsss">3 mutual friends</p>
-      <button class="buttons"> Add Friend</button>
-    </div>
+    
   </body>
 </html>

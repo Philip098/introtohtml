@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .first{
+        background-color: aqua;
+      }
+      .second{
+        background-color: pink;
+      }
+      .first-2{
+       display: grid; 
+       grid-template-columns: 200px 75px;
+      }
+      .first-3{
+        display: grid;
+        grid-template-columns: 50px 1fr 75px;
+      }
+      .third{
+        background-color: aqua;
+        
+      }
+      .fourth{
+        background-color: pink;
+      
+      }
+      .fifth{
+        background-color: aqua;
+        
+      }
+      .last-class{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        column-gap: 20px;
+        row-gap: 10px;
+      }
+      .column1{
+        background-color: aqua;
+      }
+      
+
+    </style>
+  </head>
+  <body>
+    <div> 
+      <div class="first-2">
+        <p class="first">
+          200px
+        </p>
+        <p class="second">
+          75px
+        </p>
+      </div>
+      <div class="first-3" >
+        <div class="third">
+          col 1
+        </div>
+        <div class="fourth">
+          col 2
+        </div>
+        <div class="fifth">
+          col 3
+        </div>
+      </div>
+      <div class="last-class">
+        <div class="column1">
+          col 1
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+        <div class="column1">
+          col 2
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
