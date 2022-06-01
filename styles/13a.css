@@ -1,0 +1,108 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+
+}
+.column1{
+  background-color: lightpink;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+.item1{
+  background-color: black;
+  color: white;
+}
+.column2{
+  background-color: lightblue;
+  width: 200px;
+
+}
+.flexbox1{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.column4{
+  background-color: lightblue;
+  width: 100px;
+}
+.column3{
+  width: 200px;
+  background-color: lightpink;
+
+}
+.wink{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.blink{
+  background-color: black;
+  color: white;
+}
+.profile{
+  width: 400px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  padding-left:20px ;
+  padding-right:10px ;
+  margin-top: 9px ;
+  padding-bottom: 30px;
+  padding-top: 10px;
+  border-radius: 6px;
+
+  
+}
+.indox{
+  font-size: 15px;
+  color:rgb(126, 126, 126)
+}
+.picture{
+  width: 50px;
+  border-radius: 25px;
+
+}
+.email-content{
+flex: 1;
+
+}
+.send-time{
+  color: rgb(126, 126, 126);
+  font-size: 17px;
+
+}
+.sender-name{
+  font-size: 20px;
+}
+.biggest{
+  font-size: 20px;
+  margin-top: 4px;
+}
+.hey{
+  font-size: 20px;
+  color: rgb(126, 126, 126);
+  margin-top: 5px;
+}
+.email-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+}
+.pixture{
+  margin-right: 10px;
+}
+.email{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;}

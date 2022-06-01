@@ -3,6 +3,14 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: white;
+  border-bottom-width: 1px;
+  border-color: rgb(221, 217, 217);
+  border-bottom-style: solid;
 }
 .last-section{
   display: flex;
@@ -15,13 +23,6 @@
   max-width: 500px;
   display: flex;
   align-items: center;
-}
-.first-section{
-  width: 200px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
 }
 .hamburger{
   height: 24px;
@@ -60,6 +61,7 @@ background-color: rgb(240, 240, 240);
   border-width: 1px;
   border-radius: 2px;
   box-shadow:inset 1px 2px 3px rgba(0, 0, 0, 0.05);
+  width: 0;
   
 }
 .search-box::placeholder{
@@ -77,17 +79,26 @@ background-color: rgb(240, 240, 240);
   margin-top: 4px;
 }
 .explore{
-  height: 20px;
+  height: 24px;
   
 }
 .youtubeapps{
-height: 20px;
+height: 24px;
 }
 .notifications{
-height: 20px;
+height: 24px;
 }
 .my-channel{
 height: 32px;
-margin-right: 25px;
+border-radius: 16px;
+
+}
+.first-section{
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+  flex-shrink: 0;
 }
 
