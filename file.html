@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,700&display=swap" rel="stylesheet">
+    <style>
+     .firstcontainer{
+       height: 3px;
+       background-color: RGB(220,57,45);
+       display: flex;
+     }
+     .second{
+       background-color: RGB(44,62,80);
+       color: white;
+       padding-top: 35px;
+       padding-bottom: 35px;
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       font-weight: bold;
+       justify-content: space-around;
+       
+     }
+     .bootstrap{
+       font-size: 30px;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: 700;
+     }
+     .third{
+       display: flex;
+       flex-direction: row;
+       font-family: 'Montserrat', sans-serif; 
+      
+     }
+     .fourth{
+       margin-right: 40px;
+       transition: background-colour;
+     }
+     .fourth:hover{
+       color: RGB(64,204,179);
+       cursor: pointer;
+     }
+     .fifth{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       background-color:RGB(26,188,156);
+       padding-top: 100px;
+       padding-bottom: 100px;
+     }
+     .avataaar{
+       height: 240px;
+       width: 255px;
+       object-fit: contain;
+       object-position: center;
+       margin-bottom: 30px;
+     }
+     .textimg{
+       margin-bottom: 30px;
+       color: white;
+       font-family:  'Montserrat', sans-serif;
+       font-size: 44px;
+       font-weight: 700;
+     }
+     .textimgs{
+       margin-bottom: 30px;
+       color: white;
+       font-family: 'Lato', sans-serif;
+       font-size: 20px;
+     }
+     .cards{
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr;
+       column-gap: 20px;
+       row-gap: 50px;
+       margin-left: 70px ;
+       margin-right:70px ;
+       margin-top: 50px;
+       margin-bottom: 50px;
+       cursor: pointer;
+
+     }
+     .imgs{
+       width: 100%;
+       border-radius:10px;
+
+     }
+     .qtext{
+       color:RGB(44,62,80);
+       font-size: 2.25rem;
+       font-family:'Montserrat', sans-serif;
+       font-weight: 700;
+       text-align: center;
+       margin-top: 100px;
+       margin-top: 100px;
+     }
+     .comptext{
+       background-color: RGB(26,188,156);
+       color: white;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+     }
+     .comptext2{
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       justify-content: center;
+       width: 600px;
+       font-family: 'Lato', sans-serif;
+       font-weight: 500;
+       font-size: 20px;
+  
+     }
+     .texxt{
+       margin-right: 10px;
+     }
+     .wpsw{
+       font-size: 36px;
+       font-family: 'Montserrat', sans-serif ;
+       font-weight: 700;
+     }
+     .secondplace{
+       display: flex;
+       flex-direction: column;
+       color: RGB(108,117,141);
+       font-size: 20px;
+       font-family: Arial, Helvetica, sans-serif;
+       justify-content: start;
+       align-items: center ;
+
+       
+     }
+     .teter{
+      margin-bottom: 30px; 
+     }
+     
+     .lastphase{
+       background-color: RGB(44,62,80);
+       color: white;
+       display: flex;
+       flex-direction: row;
+       padding-left:50px ;
+       padding-right:50px ;
+       padding-top:5rem;
+       padding-bottom:5rem ;
+       text-align: center;
+       justify-content: center;
+       font-family: Arial, Helvetica, sans-serif;
+       
+       
+
+     }
+     .stopq{
+       width: 200px;
+       display: flex;
+       flex-direction: column;
+       margin-right: 20px;
+       
+
+
+     }
+     .wiiin{
+      margin-bottom: 10px; 
+      font-size: 20px; 
+      font-family: 'Montserrat', sans-serif ; 
+      font-weight: 700;
+      margin-right: 20px;
+     }
+     .copps{
+       width: 250px;
+       display: flex;
+       flex-direction: column;
+       font-family:'Lato', sans-serif;
+       margin-right: 20px;
+       
+     }
+     .place{
+       background-color: RGB(26,37,47);
+       color: white;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding-top: 30px;
+       padding-bottom: 30px;
+       font-family: Arial, Helvetica, sans-serif;
+     }
+     body{
+       margin-bottom: 0px;
+       margin-top: 0px;
+       margin-right: 0px;
+       margin-left: 0px;
+     }
+    
+
+    </style>
+  </head>
+  <body>
+   <div class="firstcontainer">
+   </div>
+   <div class="second">
+      <div class="bootstrap">
+        START BOOTSTRAP
+      </div>
+      <div class="third">
+        <div class="fourth">
+          PORTFOLIO
+        </div>
+        <div class="fourth">
+          ABOUT
+        </div>
+        <div class="fourth">
+          CONTACT
+        </div>
+      </div>
+   </div>
+   <div class="fifth">
+      <div>
+        <img class="avataaar" src="thumbnails/avataaars.svg">
+      </div>
+      <div class="textimg">
+        START BOOTSTRAP
+      </div>
+      <div class="textimgs">
+        Graphic Artist - Web Designer - Illustrator
+      </div>
+   </div>
+   <div class="qtext">
+    PORTFOLIO
+   </div>
+   <div class="cards">
+     <img class="imgs" src="thumbnails/cabin.png">
+     <img class="imgs" src="thumbnails/cake.png">
+     <img class="imgs" src="thumbnails/circus.png">
+     <img class="imgs" src="thumbnails/game.png">
+     <img class="imgs" src="thumbnails/safe.png">
+     <img class="imgs" src="thumbnails/submarine.png">
+   </div>
+   <div class="comptext">
+      <div class="wpsw">
+        ABOUT
+      </div>
+      <div class="comptext2">
+        <div class="texxt" style="vertical-align: top">
+          Freelancer is a free bootstrap theme created by Start Bootstrap. 
+          The download includes the complete source files including HTML, CSS, 
+          and JavaScript as well as optional SASS stylesheets for easy customization.
+        </div>
+        <div class="texxt">
+          You can create your own custom avatar for the masthead, 
+          change the icon in the dividers, and add your email address to the contact form to make it fully functional!
+        </div>
+      </div>
+      <button>
+        <img src="thumbnails/">
+      </button>
+   </div>
+   <div class="secondplace">
+      <div class="teter">
+        CONTACT ME
+      </div>
+      <div class="teter">
+        Full name
+      </div>
+      <div class="teter">
+        Email address
+      </div>
+      <div class="teter">
+        Phone number
+      </div>
+      <div class="teter">
+        Message
+      </div>
+      <button>
+        send
+      </button>
+   </div>
+   <div class="lastphase">
+      <div class="stopq">
+        <div class="textins" style="margin-bottom: 10px; font-size: 20px; font-family: 'Montserrat', sans-serif ; font-weight: 700; ">
+          LOCATION
+        </div>
+        <div style="font-family:'Lato', sans-serif;">
+          2215 John Daniel Drive
+          Clark, MO 65243
+        </div>
+        
+      </div>
+      <div class="wiiin">
+        <div>
+          AROUND THE WEB
+        </div>
+        <div>
+          <button></button>
+          <button></button>
+          <button></button>
+          <button></button>
+        </div>
+      </div>
+      <div class="copps">
+        <div style="margin-bottom: 10px; font-size: 20px; font-family: 'Montserrat', sans-serif ; font-weight: 700; ">
+          ABOUT FREELANCER
+        </div>
+        <div>
+          Freelance is a free to use, MIT licensed Bootstrap theme created by Start Bootstrap .
+        </div>
+      </div> 
+   </div>
+   <div class="place">
+    Copyright © Your Website 2022
+   </div>
+   
+   
+   
+   
+  </body>
+</html>

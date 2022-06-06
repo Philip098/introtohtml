@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style> 
+    .shopping{
+      position: relative;
+      display: inline-block;
+
+    }
+    .picture{
+      height: 400px;
+      margin-top: 0px;
+
+    }
+    .discount{
+      background-color: black;
+      color: white;
+      padding-left: 8px;
+      padding-right: 8px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      
+     
+    }
+    .shoppings{
+      position: relative;
+      display: inline-block;
+
+      
+    }
+    .overlay{
+      position: absolute;
+      height: 200px;
+      bottom: 0px;
+      left: 0;
+      right: 0;
+      background-color: rgba(238, 228, 228, 0.3);
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+    .check{
+      cursor: pointer;
+    }
+    
+  </style>
+  </head>
+  <body style="height: 1000px ; margin: 0px;">
+    <div class="shopping">
+      <div class="aser">
+        <img class="picture" src="thumbnails/shopping.webp">
+      </div>
+      <div class="discount">
+        20% OFF
+      </div>
+    </div>
+    <!---->
+    <div class="shoppings">
+      <div class="aser">
+        <img class="picture" src="thumbnails/shopping.webp">
+      </div>
+      <div class="overlay"><button class="check">Add to cart</button></div>
+      
+      <div class="discount">
+        20% OFF
+      </div>
+    </div>
+    
+  </body>
+</html>

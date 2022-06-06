@@ -11,6 +11,7 @@
   border-bottom-width: 1px;
   border-color: rgb(221, 217, 217);
   border-bottom-style: solid;
+  z-index: 100;
 }
 .last-section{
   display: flex;
@@ -40,8 +41,27 @@
   border-width: 1px;
   border-color:rgb(192, 192, 192);
   margin-left: -1px;
+ 
 
 
+}
+.searchicon .tooltip{
+  position: absolute;
+  background-color:grey;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 2px;
+  font-size: 12px;
+  bottom: -35px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+}
+.searchicon:hover .tooltip{
+opacity: 1;
 }
 .voice-search2{
 height: 40px;
@@ -50,6 +70,43 @@ border-radius: 20px;
 margin: 10px;
 border: none;
 background-color: rgb(240, 240, 240);
+
+}
+.voice-search2 .tooltip,
+.upload-container .tooltip,
+.youtube1 .tooltip,
+.notification1 .tooltip{
+  position: absolute;
+  background-color: grey;
+  color: white;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 2px;
+  font-size: 12px;
+  bottom: -35px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+  white-space: nowrap;
+  
+}
+.voice-search2:hover .tooltip,
+.upload-container:hover .tooltip,
+.youtube1:hover .tooltip,
+.notification1:hover .tooltip{
+  opacity: 1 ;
+}
+.searchicon,
+.voice-search2,
+.upload-container,
+.youtube1,
+.notification1{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .search-box{
   flex: 1;
@@ -71,14 +128,13 @@ background-color: rgb(240, 240, 240);
 .searchman{
   height: 24px;
   width: 24px;
-  margin-top: 4px;
-  
+ 
 }
 .voice-search{
   height: 24px;
-  margin-top: 4px;
+ 
 }
-.explore{
+.upload1{
   height: 24px;
   
 }
@@ -87,6 +143,25 @@ height: 24px;
 }
 .notifications{
 height: 24px;
+}
+.notification1{
+  position: relative;
+ 
+}
+.number{
+  position: absolute;
+  top: -2px; ;
+  right: -2px; ;
+  background-color: rgb(179, 8, 8);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 50%;
+  
 }
 .my-channel{
 height: 32px;

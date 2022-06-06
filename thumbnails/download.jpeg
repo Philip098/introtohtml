@@ -1,0 +1,1827 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+			<script>document.documentElement.classList.remove("no-js");</script>
+	
+	<script type="text/javascript"
+		id="Cookiebot"
+		src="https://consent.cookiebot.com/uc.js"
+		data-cbid="361bdd62-36a6-4f16-8ef7-0f60b177b750"
+							data-blockingmode="auto"
+	></script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="en" href="https://www.memoq.com" />
+<link rel="alternate" hreflang="de" href="https://www.memoq.com/de" />
+<link rel="alternate" hreflang="fr" href="https://www.memoq.com/fr" />
+<link rel="alternate" hreflang="ja" href="https://www.memoq.com/ja" />
+<link rel="alternate" hreflang="x-default" href="https://www.memoq.com" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>memoQ | Translation and Localization Management Solutions</title>
+	<meta name="description" content="memoQ offers flexible translation and localization management solutions tailored to enterprises, language service providers, and translators." />
+	<link rel="canonical" href="https://www.memoq.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Translation Management System Tailored to Your Needs" />
+	<meta property="og:description" content="memoQ offers flexible translation and localization management solutions tailored to enterprises, language service providers, and translators." />
+	<meta property="og:url" content="https://www.memoq.com/" />
+	<meta property="og:site_name" content="Translation software - memoQ" />
+	<meta property="article:modified_time" content="2022-05-24T21:06:00+00:00" />
+	<meta property="og:image" content="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/hero-ilu-1200.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="4 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.memoq.com/fr/#website","url":"https://www.memoq.com/fr/","name":"Translation software - memoQ","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.memoq.com/fr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.memoq.com/#primaryimage","url":"https://memoq-com.azureedge.net/wp-content/uploads/2019/07/hero-ilu-1200.png","contentUrl":"https://memoq-com.azureedge.net/wp-content/uploads/2019/07/hero-ilu-1200.png","width":1200,"height":630,"caption":"home page banner memoQ"},{"@type":"WebPage","@id":"https://www.memoq.com/#webpage","url":"https://www.memoq.com/","name":"memoQ | Translation and Localization Management Solutions","isPartOf":{"@id":"https://www.memoq.com/fr/#website"},"primaryImageOfPage":{"@id":"https://www.memoq.com/#primaryimage"},"datePublished":"2018-09-03T09:30:55+00:00","dateModified":"2022-05-24T21:06:00+00:00","description":"memoQ offers flexible translation and localization management solutions tailored to enterprises, language service providers, and translators.","breadcrumb":{"@id":"https://www.memoq.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.memoq.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.memoq.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//js.hsforms.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Translation software - memoQ &raquo; Feed" href="https://www.memoq.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Translation software - memoQ &raquo; Comments Feed" href="https://www.memoq.com/comments/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://memoq-com.azureedge.net/wp-includes/css/dist/block-library/style.min.css?ver=6.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dusty-orange: #ed8f5b;--wp--preset--color--dusty-red: #e36d60;--wp--preset--color--dusty-wine: #9c4368;--wp--preset--color--dark-sunset: #33223b;--wp--preset--color--almost-black: #0a1c28;--wp--preset--color--dusty-water: #41848f;--wp--preset--color--dusty-sky: #72a7a3;--wp--preset--color--dusty-daylight: #97c0b7;--wp--preset--color--dusty-sun: #eee9d1;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 20px;--wp--preset--font-size--larger: 48px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='jquery-bxslider-css'  href='https://memoq-com.azureedge.net/wp-content/plugins/bb-plugin/css/jquery.bxslider.css?ver=2.5.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-12-css'  href='https://memoq-com.azureedge.net/wp-content/uploads/bb-plugin/cache/12-layout.css?ver=85b8c31dbb92f5b4411d1916e6c10ac0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://memoq-com.azureedge.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css-css'  href='https://memoq-com.azureedge.net/wp-content/plugins/memoq-custom-bb/vendor/owlcarousel/dist/assets/owl.carousel.min.css?ver=20190325' type='text/css' media='all' />
+<link rel='stylesheet' id='gs-core-css'  href='https://memoq-com.azureedge.net/wp-content/plugins/memoq-getting-started/assets/css/gs-core.css?ver=1654505322' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css'  href='//memoq-com.azureedge.net/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//memoq-com.azureedge.net/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='memoq-fonts-css'  href='https://fonts.googleapis.com/css?family=Rubik%3A300i%2C400%2C500&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=200902' type='text/css' media='all' />
+<link rel='stylesheet' id='memoq-base-style-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/style.css?ver=200902' type='text/css' media='all' />
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//memoq-com.azureedge.net/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.min.js?ver=1' id='wpml-legacy-dropdown-0-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/modules/navigation.js?ver=200902' id='memoq-navigation-js' async></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/libs/bootstrap.min.js?ver=200902' id='memoq-bootstrap-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/modules/select2.js?ver=200902' id='memoq-select2-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/modules/back_to_top.js?ver=200902' id='memoq-to-top-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/modules/search.js?ver=200902' id='memoq-search-js'></script>
+<script type='text/javascript' src='//js.hsforms.net/forms/shell.js?ver=20190322' id='memoq-hubspost-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/themes/memoq/js/skip-link-focus-fix.js?ver=20190322' id='memoq-skip-link-focus-fix-js' defer></script>
+<link rel="https://api.w.org/" href="https://www.memoq.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.memoq.com/wp-json/wp/v2/pages/12" />
+<link rel='shortlink' href='https://www.memoq.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.memoq.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.memoq.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.memoq.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.memoq.com%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.5.7 stt:1,4,3,28;" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWQ3LDK');</script>
+<!-- End Google Tag Manager -->			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.12.41-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentId", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					};
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+		<link rel="preload" id="memoq-global-preload" href="https://memoq-com.azureedge.net/wp-content/themes/memoq/css/global.css?ver=200902" as="style" />
+<link rel="preload" id="memoq-header-preload" href="https://memoq-com.azureedge.net/wp-content/themes/memoq/css/header.css?ver=200902" as="style" />
+<link rel="preload" id="memoq-content-preload" href="https://memoq-com.azureedge.net/wp-content/themes/memoq/css/content.css?ver=20190322" as="style" />
+<link rel="preload" id="memoq-front-page-preload" href="https://memoq-com.azureedge.net/wp-content/themes/memoq/css/front-page.css?ver=20190322" as="style" />
+<link rel="icon" href="https://memoq-com.azureedge.net/wp-content/uploads/2019/06/favicon_memoQ-48x48.png" sizes="32x32" />
+<link rel="icon" href="https://memoq-com.azureedge.net/wp-content/uploads/2019/06/favicon_memoQ-216x216.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://memoq-com.azureedge.net/wp-content/uploads/2019/06/favicon_memoQ-216x216.png" />
+<meta name="msapplication-TileImage" content="https://memoq-com.azureedge.net/wp-content/uploads/2019/06/favicon_memoQ.png" />
+</head>
+
+<body class="home page-template-default page page-id-12 wp-custom-logo fl-builder front-page">
+
+<link rel='stylesheet' id='memoq-global-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/css/global.css?ver=200902' type='text/css' media='all' />
+<link rel='stylesheet' id='memoq-header-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/css/header.css?ver=200902' type='text/css' media='all' />
+<link rel='stylesheet' id='memoq-components-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/css/components.css?ver=200902' type='text/css' media='all' />
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+	<div class="HeaderBar">
+		<div class="Row">
+			<div class="Container Container--fluid">
+				<div class="HeaderBar__content">
+					<ul id="menu-header-bar-menu" class="HeaderBarMenu HeaderBarMenu--top navbar-nav"><li id="menu-item-542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542 nav-item"><div class="mq-Menu__IconWrapper"><noscript><img width="18" height="18" src="https://memoq-com.azureedge.net/wp-content/uploads/2018/12/account.svg" class="menu-item-icon" alt="account" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="18" height="18" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2018%2018%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/12/account.svg" class="lazyload menu-item-icon" alt="account" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://my.memoq.com/">Sign in to my memoQ</a></li>
+<li id="menu-item-wpml-ls-23-en" class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children dropdown menu-item-wpml-ls-23-en nav-item"><a class="nav-link dropdown-toggle" title="English" href="https://www.memoq.com" data-toggle="dropdown"><span class="wpml-ls-native" lang="en">English</span></a>
+<ul class="dropdown-menu depth_0 Style--light" >
+	<li id="menu-item-wpml-ls-23-de" class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-de nav-item"><a class="nav-link" title="Deutsch" href="https://www.memoq.com/de"><span class="wpml-ls-native" lang="de">Deutsch</span></a></li>
+	<li id="menu-item-wpml-ls-23-fr" class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-fr nav-item"><a class="nav-link" title="Français [CA]" href="https://www.memoq.com/fr"><span class="wpml-ls-native" lang="fr">Français [CA]</span></a></li>
+	<li id="menu-item-wpml-ls-23-ja" class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-ja wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-ja nav-item"><a class="nav-link" title="日本語" href="https://www.memoq.com/ja"><span class="wpml-ls-native" lang="ja">日本語</span></a></li>
+</ul></li>
+</ul>					<form role="search" method="get" id="searchform--desktop" class="mq-SearchForm mq-SearchForm--desktop" action="https://www.memoq.com">
+						<input
+						class="mq-SearchForm__Input "
+						type="text"
+						value=""
+						name="s"
+						id="sd"
+						placeholder="Search memoq.com..."
+						data-js-module="mq-search"
+						data-js-module-name="mq-search"
+						/>
+						<label class="mq-SearchForm__Label" for="s">Search</label>
+						<span class="mq-SearchForm__Icon"></span>
+						<input
+							type="submit"
+							value="Search"
+							class="mq-SearchForm__Submit"
+						>
+						<span class="mq-SearchForm__Loader" style="opacity: 0;"></span>
+					</form>
+					<ul id="menu-main-side-menu" class="MainSideMenu navbar-nav d-none d-lg-flex d-xl-flex"><li id="menu-item-17571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17571 nav-item"><a class="nav-link" href="https://docs.memoq.com/">Documentation</a></li>
+<a class="btn btn-primary btn-sm" href="/getting-started">Get Started</a></li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+	<header id="masthead" class="SiteHeader Style--dark" data-js-module="mq-navigation" data-js-module-name="site-header">
+		<div class="Row">
+			<div class="Container Container--fluid">
+				<nav id="site-navigation" class="SiteHeader__navigation navbar navbar navbar-expand-lg" aria-label="Main menu"
+									>
+					<div class="navbar-brand site-branding">
+													<a href="https://www.memoq.com" class="Logo Logo--dark" rel="home" itemprop="url">
+								<img src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo.svg" alt="memoQ logo white" class="Logo__image" data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo.svg">
+							</a>
+																			<a href="https://www.memoq.com" class="Logo Logo--light" rel="home" itemprop="url">
+								<img src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_inverse.svg" alt="Translation software &#8211; memoQ" class="Logo__image" data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_inverse.svg">
+							</a>
+						
+												
+					</div><!-- .site-branding -->
+					
+					
+					<button id="menu-toggle-lvl0" class="menu-toggle navbar-toggler beforeDocLoad collapsed" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="false"
+											>
+						<span></span>
+						<span></span>
+						<span></span>
+					</button>
+
+					<div id="primary-menu" class="primary-menu-container collapse navbar-collapse force-scroll">
+						<div class="megamenu-primarynav">
+															<a href="https://www.memoq.com" class="Logo Logo--light" rel="home" itemprop="url">
+									<img src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_inverse.svg" alt="Translation software &#8211; memoQ" class="Logo__image" data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_inverse.svg">
+								</a>
+														<button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button>
+						</div>
+						<ul id="menu-main-menu" class="MainMenu navbar-nav mx-0 ml-auto"><li id="menu-item-10007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu dropdown menu-item-10007 nav-item"><a class="nav-link dropdown-toggle" href="https://www.memoq.com/products" data-toggle="dropdown">Products</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev"></a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom group-title menu-item-376 nav-item">Collaboration</li>
+	<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-product with-large-image menu-item-375 nav-item has-description"><noscript><img width="112" height="128" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/memoq-server.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="112" height="128" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20112%20128%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/memoq-server.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/products/memoq-server">memoQ server</a> <span class="description">Adapt your communication to local cultures with memoQ</span></a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-product half-wide with-middle-image menu-item-369 nav-item has-description"><noscript><img width="67" height="67" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/a-cloud-svg.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="67" height="67" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2067%2067%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/a-cloud-svg.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/products/memoq-cloud">memoQ cloud</a> <span class="description">Cutting edge translation management in the cloud</span></a></li>
+	<li id="menu-item-12748" class="menu-item menu-item-type-custom menu-item-object-custom half-wide remove-right-margin with-middle-image menu-item-12748 nav-item has-description"><noscript><img width="67" height="67" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/illustration-internal_error-on-dark.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="67" height="67" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2067%2067%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/illustration-internal_error-on-dark.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://hub.memoq.com/switch-to-memoq-easily">Switch to memoQ!</a> <span class="description">Switch Your Translation Management System Easily</span></a></li>
+</ul></li><li class="megamenu-column show-divider-line"><ul>
+	<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom column-divider group-title menu-item-377 nav-item">Individual use</li>
+	<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-product with-large-image menu-item-371 nav-item has-description"><noscript><img width="112" height="128" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/translator-pro.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="112" height="128" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20112%20128%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/translator-pro.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/products/memoq-translator-pro">memoQ translator pro</a> <span class="description">Computer-assisted translation environment for translators</span></a></li>
+	<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-product half-wide with-middle-image menu-item-370 nav-item has-description"><noscript><img width="67" height="67" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/a-heymemoq.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="67" height="67" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2067%2067%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/a-heymemoq.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/products/hey-memoq">Hey memoQ</a> <span class="description">Dictation support for iOS users, in more than 30 languages</span></a></li>
+	<li id="menu-item-12749" class="menu-item menu-item-type-custom menu-item-object-custom half-wide remove-right-margin with-middle-image menu-item-12749 nav-item has-description"><noscript><img width="67" height="67" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/account-validated-ok.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="67" height="67" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2067%2067%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/account-validated-ok.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://hub.memoq.com/translators-switch-to-memoq-easily">Switch to memoQ!</a> <span class="description">Switch Your CAT Tool Easily</span></a></li>
+</ul></li><li class="megamenu-row"><ul>
+</li>
+	<li id="menu-item-4218" class="align-right menu-item menu-item-type-post_type menu-item-object-page menu-item-4218 nav-item"><a class="btn btn-link" href="https://www.memoq.com/products">View all products</a></li>
+</ul></li></div></ul></li>
+<li id="menu-item-10009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu dropdown menu-item-10009 nav-item"><a class="nav-link dropdown-toggle" href="https://www.memoq.com/services" data-toggle="dropdown">Services</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev">Services</a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom group-title menu-item-404 nav-item">Services and Programs</li>
+	<li id="menu-item-4482" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4482 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-reseller-partnership.svg" class="menu-item-icon" alt="partnership" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-reseller-partnership.svg" class="lazyload menu-item-icon" alt="partnership" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/services/business-services">Business Services</a> <span class="description">Increase margins, improve ROI, build brand equity, and differentiate your brand from the competition</span></a></li>
+	<li id="menu-item-4495" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4495 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-workflow.svg" class="menu-item-icon" alt="workflow" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-workflow.svg" class="lazyload menu-item-icon" alt="workflow" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/services/memoq-server-hosting-service">memoQ server Hosting Service</a> <span class="description">Azure servers offer many advantages for memoQ customers</span></a></li>
+	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-397 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/legal-eula.svg" class="menu-item-icon" alt="eula" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/legal-eula.svg" class="lazyload menu-item-icon" alt="eula" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/services/association-program">Association Program</a> <span class="description">Receive member and group discount on memoQ translator pro and access to online training courses</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-service column-divider need-top-spacing menu-item-396 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/products-zen.svg" class="menu-item-icon" alt="zen" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/products-zen.svg" class="lazyload menu-item-icon" alt="zen" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/services/academic-program">memoQ Academic Program</a> <span class="description">Apply and get free educational licenses for students and lecturers</span></a></li>
+	<li id="menu-item-1918" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1918 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-customerinsight.svg" class="menu-item-icon" alt="customer insights" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-customerinsight.svg" class="lazyload menu-item-icon" alt="customer insights" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/services/customer-insights-program">Customer Insights Program</a> <span class="description">We collect quantitative and qualitative user feedback to further improve memoQ</span></a></li>
+</ul></li><li class="megamenu-row"><ul>
+</li>
+	<li id="menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1724 nav-item"><a class="btn btn-link" href="https://www.memoq.com/services">View all services</a></li>
+</ul></li></div></ul></li>
+<li id="menu-item-12387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu dropdown menu-item-12387 nav-item"><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Ecosystem</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev">Ecosystem</a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-12375" class="menu-item menu-item-type-custom menu-item-object-custom group-title menu-item-12375 nav-item">Extensions</li>
+	<li id="menu-item-12374" class="menu-item menu-item-type-custom menu-item-object-custom with-small-image menu-item-12374 nav-item has-description"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/QTerm_05.svg" class="menu-item-image" alt="Qterm" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/QTerm_05.svg" class="lazyload menu-item-image" alt="Qterm" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/extensions#qterm">QTerm</a> <span class="description">The ultimate terminology management system for storing, managing and sharing terminology.</span></a></li>
+	<li id="menu-item-12376" class="menu-item menu-item-type-custom menu-item-object-custom with-small-image menu-item-12376 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/memoQWeb.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/memoQWeb.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/extensions#memoqweb">memoQWeb</a> <span class="description">No need to install. Get started from your browser with the most evolved CAT tool!</span></a></li>
+	<li id="menu-item-12377" class="menu-item menu-item-type-custom menu-item-object-custom with-small-image menu-item-12377 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Customer-Portal.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Customer-Portal.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/extensions#customer-portal">Customer Portal</a> <span class="description">Use the customer portal to easily connect with your clients!</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-12378" class="menu-item menu-item-type-custom menu-item-object-custom column-divider group-title menu-item-12378 nav-item">Integrations</li>
+	<li id="menu-item-12382" class="menu-item menu-item-type-post_type menu-item-object-integration with-small-image menu-item-12382 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Machine-Translation.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Machine-Translation.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/integrations/machine-translation">Machine translation</a> <span class="description">Machine Translation (MT) lets you automatically translate text…fast!</span></a></li>
+	<li id="menu-item-12380" class="menu-item menu-item-type-post_type menu-item-object-integration with-small-image menu-item-12380 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Business-Management.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Business-Management.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/integrations/business-management">Business Management</a> <span class="description">Manage translation projects with a business management tool integrated with memoQ.</span></a></li>
+	<li id="menu-item-12381" class="menu-item menu-item-type-post_type menu-item-object-integration with-small-image menu-item-12381 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Content-Management.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/Content-Management.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/integrations/content-management">Content Management</a> <span class="description">Automated translation management for ever-changing content.</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-12385" class="menu-item menu-item-type-custom menu-item-object-custom column-divider group-title menu-item-12385 nav-item">API, SDK &#038; Compatibility</li>
+	<li id="menu-item-12379" class="menu-item menu-item-type-post_type menu-item-object-integration with-small-image menu-item-12379 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/APIs.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/APIs.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/integrations/apis">APIs</a> <span class="description">APIs enable developers to enhance the functionality of memoQ.</span></a></li>
+	<li id="menu-item-12383" class="menu-item menu-item-type-post_type menu-item-object-integration with-small-image menu-item-12383 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/SDKs.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/SDKs.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/integrations/sdks">SDKs</a> <span class="description">Discover the memoQ software development kits, a collection of tools in installable package format.</span></a></li>
+	<li id="menu-item-12384" class="menu-item menu-item-type-post_type menu-item-object-page with-small-image menu-item-12384 nav-item has-description"><noscript><img width="48" height="49" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/SDKs-1.svg" class="menu-item-image" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="49" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2049%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/SDKs-1.svg" class="lazyload menu-item-image" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /><a class="nav-link" href="https://www.memoq.com/compatibility">Compatibility with other tools</a> <span class="description">Import, translate and export the proprietary files of other translation tools!</span></a></li>
+</ul></li><li class="megamenu-row"><ul>
+</li>
+	<li id="menu-item-12386" class="align-right menu-item menu-item-type-post_type menu-item-object-page menu-item-12386 nav-item"><a class="btn btn-link" href="https://www.memoq.com/ecosystem">Go to ecosystem</a></li>
+</ul></li></div></ul></li>
+<li id="menu-item-10006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu dropdown menu-item-10006 nav-item"><a class="nav-link dropdown-toggle" href="https://www.memoq.com/solutions" data-toggle="dropdown">Solutions</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev"></a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom group-title menu-item-322 nav-item">Customers</li>
+	<li id="menu-item-3978" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-3978 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-enterprises.svg" class="menu-item-icon" alt="enterprises" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-enterprises.svg" class="lazyload menu-item-icon" alt="enterprises" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/enterprises">Enterprises</a> <span class="description">Keep a consistent and clear brand identity and message across all languages used in the markets where you operate</span></a></li>
+	<li id="menu-item-4229" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4229 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-lsp.svg" class="menu-item-icon" alt="Language Service Providers" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-lsp.svg" class="lazyload menu-item-icon" alt="Language Service Providers" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/language-service-providers">Language Service Providers</a> <span class="description">A comprehensive translation environment to support your processes with innovative features</span></a></li>
+	<li id="menu-item-4228" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4228 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-translators.svg" class="menu-item-icon" alt="Translators" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-translators.svg" class="lazyload menu-item-icon" alt="Translators" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/translators">Professional Translators</a> <span class="description">Speed up your work and improve quality at the same time</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-350" class="menu-item menu-item-type-custom menu-item-object-custom column-divider group-title menu-item-350 nav-item">Industries</li>
+	<li id="menu-item-4235" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4235 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-lifescience.svg" class="menu-item-icon" alt="Life Science Translation" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-lifescience.svg" class="lazyload menu-item-icon" alt="Life Science Translation" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/life-science-localization">Life Sciences Translation</a> <span class="description">When lives are at stake, there is no room for error</span></a></li>
+	<li id="menu-item-4234" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4234 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-game.svg" class="menu-item-icon" alt="Game Localization" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-game.svg" class="lazyload menu-item-icon" alt="Game Localization" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/game-localization">Game Localization</a> <span class="description">Unleash the full potential of your games! Enter new markets with localized content to increase your revenue</span></a></li>
+	<li id="menu-item-4219" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4219 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/icon-audiovisual_translation..svg" class="menu-item-icon" alt="Audiovisual Translation in memoQ" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/08/icon-audiovisual_translation..svg" class="lazyload menu-item-icon" alt="Audiovisual Translation in memoQ" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/solutions/audiovisual-translation-localization">Audiovisual Translation</a> <span class="description">Increase productivity, improve translation quality, and meet tight deadlines</span></a></li>
+</ul></li></div></ul></li>
+<li id="menu-item-12797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12797 nav-item"><a class="nav-link" href="https://www.memoq.com/pricing">Pricing</a></li>
+<li id="menu-item-10011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children megamenu dropdown menu-item-10011 nav-item"><a class="nav-link dropdown-toggle" href="https://www.memoq.com/resources" data-toggle="dropdown">Support &#038; Resources</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev">Support &#038; Resources</a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-12433" class="menu-item menu-item-type-custom menu-item-object-custom group-title menu-item-12433 nav-item">Support</li>
+	<li id="menu-item-5292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5292 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-support.svg" class="menu-item-icon" alt="support" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-support.svg" class="lazyload menu-item-icon" alt="support" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://helpcenter.memoq.com/hc/en-us">Technical support</a> <span class="description">Got an issue? Submit a ticket</span></a></li>
+	<li id="menu-item-5293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5293 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-referral.svg" class="menu-item-icon" alt="referral" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/services-referral.svg" class="lazyload menu-item-icon" alt="referral" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://helpcenter.memoq.com/hc/en-us/articles/360010268640-Contacting-support">Contacting support</a> <span class="description">A summary on how to communicate support issues</span></a></li>
+	<li id="menu-item-5294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5294 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="menu-item-icon" alt="memoQ story" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="lazyload menu-item-icon" alt="memoQ story" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://helpcenter.memoq.com/hc/en-us/articles/360010268680-Support-and-Maintenance">Support and maintenance policy</a> <span class="description">Everything you need to know about your support and maintenance agreement with memoQ</span></a></li>
+	<li id="menu-item-5295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5295 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-content.svg" class="menu-item-icon" alt="content" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/solutions-content.svg" class="lazyload menu-item-icon" alt="content" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://helpcenter.memoq.com/hc/en-us/articles/360010268660-Frequent-release-policy">Frequent release policy</a> <span class="description">Summary of the support and maintenance, compatibility and versioning principles</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-12434" class="menu-item menu-item-type-custom menu-item-object-custom column-divider group-title menu-item-12434 nav-item">Resources</li>
+	<li id="menu-item-17570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17570 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2022/04/download_noBG.svg" class="menu-item-icon" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2022/04/download_noBG.svg" class="lazyload menu-item-icon" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="/downloads">Download memoQ</a> <span class="description">Upgrade to the desired memoQ version here.</span></a></li>
+	<li id="menu-item-16311" class="menu-item menu-item-type-post_type menu-item-object-page with-small-image menu-item-16311 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="18" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/podcast-icon-24px-1.svg" class="menu-item-icon" alt="memoq talks icon" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="18" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2018%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/podcast-icon-24px-1.svg" class="lazyload menu-item-icon" alt="memoq talks icon" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/memoq-talks">memoQ talks</a> <span class="description">Become a localization pro on the go with memoQ!</span></a></li>
+	<li id="menu-item-4236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4236 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-blog.svg" class="menu-item-icon" alt="memoQ blog" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-blog.svg" class="lazyload menu-item-icon" alt="memoQ blog" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" rel="noopener" href="https://blog.memoq.com/">memoQ blog</a> <span class="description">Keep yourself up-to-date with the latest news and trends from the world of translation technology</span></a></li>
+	<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-webinars.svg" class="menu-item-icon" alt="webinars" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-webinars.svg" class="lazyload menu-item-icon" alt="webinars" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/resources/webinars">Webinars</a> <span class="description">Browse and register for our upcoming webinars</span></a></li>
+	<li id="menu-item-9646" class="menu-item menu-item-type-post_type_archive menu-item-object-ebook menu-item-9646 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-ebooks.svg" class="menu-item-icon" alt="ebooks" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-ebooks.svg" class="lazyload menu-item-icon" alt="ebooks" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/resources/ebooks">eBooks</a> <span class="description">Best practices and ins and outs of language translation technology</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-4293" class="menu-item menu-item-type-custom menu-item-object-custom column-divider need-top-spacing menu-item-4293 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/people-man-graduate.png" class="menu-item-icon" alt="graduate" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/people-man-graduate.png" class="lazyload menu-item-icon" alt="graduate" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" rel="noopener" href="https://www.memoq.com/memoq-academy">memoQ academy</a> <span class="description">Learn how to prosper in the premium translation market.</span></a></li>
+	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-customerstories.svg" class="menu-item-icon" alt="customer stories" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-customerstories.svg" class="lazyload menu-item-icon" alt="customer stories" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/success-stories">Success Stories</a> <span class="description">Companies that already transformed with memoQ</span></a></li>
+	<li id="menu-item-1756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-translationessentials.svg" class="menu-item-icon" alt="translation essentials" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/resources-translationessentials.svg" class="lazyload menu-item-icon" alt="translation essentials" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/translators-essentials">Translators&#8217; essentials</a> <span class="description">Getting started with computer-assisted translation tools</span></a></li>
+	<li id="menu-item-4216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4216 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/game-controller-wireless.png" class="menu-item-icon" alt="game controller" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/game-controller-wireless.png" class="lazyload menu-item-icon" alt="game controller" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/localization-essentials">Localization essentials</a> <span class="description">Find your way in the world of localization</span></a></li>
+	<li id="menu-item-3511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3511 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="menu-item-icon" alt="memoQ story" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="lazyload menu-item-icon" alt="memoQ story" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://docs.memoq.com/">Documentation</a> <span class="description">Find help</span></a></li>
+</ul></li></div></ul></li>
+<li id="menu-item-297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu dropdown menu-item-297 nav-item"><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">About us</a>
+<ul class="dropdown-menu depth_0 Style--light" >
+<div class="megamenu-wrapper">
+<li class="megamenu-column"><ul>
+<li class="megamenu-subnav"><a class="megamenu-subnav-prev">About us</a><button class="menu-toggle navbar-toggler megamenu-subnav-close" data-toggle="collapse" data-js="navbar-toggle" data-target="#primary-menu" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="true"></button></li>	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-contactus.svg" class="menu-item-icon" alt="contact us" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-contactus.svg" class="lazyload menu-item-icon" alt="contact us" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/contact-us">Contact Us</a> <span class="description">We are here to help!</span></a></li>
+	<li id="menu-item-17972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17972 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-joinus.svg" class="menu-item-icon" alt="join us" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-joinus.svg" class="lazyload menu-item-icon" alt="join us" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/careers">Join us</a> <span class="description">View open positions</span></a></li>
+	<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-meetus.svg" class="menu-item-icon" alt="meet us" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-meetus.svg" class="lazyload menu-item-icon" alt="meet us" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/events">Meet Us at Industry Events</a> <span class="description">Let’s meet around the globe!</span></a></li>
+</ul></li><li class="megamenu-column "><ul>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page column-divider menu-item-449 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-team.svg" class="menu-item-icon" alt="team" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-team.svg" class="lazyload menu-item-icon" alt="team" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/team">We are the memoQers</a> <span class="description">People behind memoQ</span></a></li>
+	<li id="menu-item-1750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1750 nav-item has-description"><div class="mq-Menu__IconWrapper"><noscript><img width="24" height="24" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="menu-item-icon" alt="memoQ story" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="24" height="24" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/about-mqstory.svg" class="lazyload menu-item-icon" alt="memoQ story" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" href="https://www.memoq.com/memoq-story">Read our story</a> <span class="description">The story of memoQ</span></a></li>
+</ul></li></div></ul></li>
+</ul><ul id="menu-main-side-menu-1" class="MainSideMenu navbar-nav mx-0 d-lg-none"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17571 nav-item"><a class="nav-link" href="https://docs.memoq.com/">Documentation</a></li>
+<a class="btn btn-primary btn-sm" href="/getting-started">Get Started</a></li>
+</ul><ul id="menu-header-bar-menu-1" class="HeaderBarMenu HeaderBarMenu--mobile navbar-nav d-lg-none mx-0 sticky"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542 nav-item"><div class="mq-Menu__IconWrapper"><noscript><img width="18" height="18" src="https://memoq-com.azureedge.net/wp-content/uploads/2018/12/account.svg" class="menu-item-icon" alt="account" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="18" height="18" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2018%2018%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/12/account.svg" class="lazyload menu-item-icon" alt="account" data-sizes="(min-width: 960px) 75vw, 100vw" /></div><a class="nav-link" target="_blank" href="https://my.memoq.com/">Sign in to my memoQ</a></li>
+<li class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children dropdown menu-item-wpml-ls-23-en nav-item"><a class="nav-link dropdown-toggle" title="English" href="https://www.memoq.com" data-toggle="dropdown"><span class="wpml-ls-native" lang="en">English</span></a>
+<ul class="dropdown-menu depth_0 Style--light" >
+	<li class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-de nav-item"><a class="nav-link" title="Deutsch" href="https://www.memoq.com/de"><span class="wpml-ls-native" lang="de">Deutsch</span></a></li>
+	<li class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-fr nav-item"><a class="nav-link" title="Français [CA]" href="https://www.memoq.com/fr"><span class="wpml-ls-native" lang="fr">Français [CA]</span></a></li>
+	<li class="menu-item wpml-ls-slot-23 wpml-ls-item wpml-ls-item-ja wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-23-ja nav-item"><a class="nav-link" title="日本語" href="https://www.memoq.com/ja"><span class="wpml-ls-native" lang="ja">日本語</span></a></li>
+</ul></li>
+</ul>						<form role="search" method="get" id="searchform--mobile" class="mq-SearchForm mq-SearchForm--mobile d-lg-none" action="https://www.memoq.com">
+							<input
+							class="mq-SearchForm__Input "
+							type="text"
+							value=""
+							name="s"
+							id="sm"
+							placeholder="Search memoq.com..."
+							data-js-module="mq-search"
+							data-js-module-name="mq-search"
+							/>
+							<span class="mq-SearchForm__Icon"></span>
+						</form>
+					</div>
+				</nav><!-- #site-navigation -->
+			</div>
+		</div>
+
+	</header><!-- #masthead -->
+	<div class="site-header-shadow" data-js="site-header-shadow"></div>
+
+	<main id="primary" class="site-main">
+
+	<link rel='stylesheet' id='memoq-content-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/css/content.css?ver=20190322' type='text/css' media='all' />
+<article id="post-12" class="post-12 page type-page status-publish hentry">
+	
+	<div class="entry-content">
+		<div class="fl-builder-content fl-builder-content-12 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="12"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f50a933b4e05 BBHero" data-node="5f50a933b4e05">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f50a933b4e00" data-node="5f50a933b4e00">
+			<div class="fl-col fl-node-5f50a933b4e03" data-node="5f50a933b4e03">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-content-slider fl-node-5f50a933b4e04 BBContentSlider btn-container btn-primary-container" data-node="5f50a933b4e04">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-content-slider">
+	<div class="fl-content-slider-wrapper">
+				<div class="fl-slide fl-slide-0 fl-slide-text-left">
+			<div class="fl-slide-bg-photo"></div><a class="fl-slide-bg-link" href="https://www.memoq.com/getting-started" target="_self" aria-label="Translation Management System Tailored to Your Needs"></a>			<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h1 class="fl-slide-title">Translation Management System Tailored to Your Needs</h1><div class="fl-slide-text"><p>memoQ is designed to serve the needs of enterprises, language service providers, and translators.</p>
+</div><div class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/getting-started" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Get started</span>
+					</a>
+</div>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-1 fl-slide-text-left">
+			<div class="fl-slide-bg-photo"></div><a class="fl-slide-bg-link" href="https://www.memoq.com/memoq-versions/memoq-9-10" target="_self" aria-label="Download memoQ 9.10 and see your productivity soar "></a>			<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h1 class="fl-slide-title">Download memoQ 9.10 and see your productivity soar </h1><div class="fl-slide-text"><p>With the release of memoQ 9.10, we bring you Business Analytics – a feature long wished for by many, now brought to life to help you track projects. Besides that, you will find several smaller features and tweaks based on our users’ suggestions.</p>
+</div><div class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/memoq-versions/memoq-9-10" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Learn more</span>
+					</a>
+</div>
+</div></div></div><div class="fl-slide-photo-wrap"><div class="fl-slide-photo"><a href="https://www.memoq.com/memoq-versions/memoq-9-10" target="_self"><noscript><img width="738" height="600" loading='false' class="fl-slide-photo-img wp-image-17009" src="https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1.png" alt="" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1.png 738w, https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1-300x244.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="738" height="600" loading='false' class="lazyload fl-slide-photo-img wp-image-17009" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20738%20600%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1.png" alt="" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1.png 738w, https://memoq-com.azureedge.net/wp-content/uploads/2022/01/memoq_web_910_slider_v2_738x600px-1-300x244.png 300w" data-sizes="(min-width: 960px) 75vw, 100vw" /></a></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-2 fl-slide-text-left">
+			<div class="fl-slide-bg-photo"></div><a class="fl-slide-bg-link" href="https://academy.memoq.com/" target="_blank" aria-label="memoQ academy"></a>			<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h1 class="fl-slide-title">memoQ academy</h1><div class="fl-slide-text"><p>Welcome to memoQ academy! Learn how to prosper in the premium translation market.</p>
+<p>Start browsing some of our free or paid courses and tutorials or enroll in our Translator or Project Manager certification courses!</p>
+</div><div class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://academy.memoq.com/" target="_blank" class="fl-button" role="button" rel="noopener" >
+							<span class="fl-button-text">Start learning</span>
+					</a>
+</div>
+</div></div></div><div class="fl-slide-photo-wrap"><div class="fl-slide-photo"><a href="https://academy.memoq.com/" target="_blank"><img width="738" height="600" loading='false' class="fl-slide-photo-img wp-image-16246" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/memoq_academic_website_multiply_738x600px-04_738x600px.png" alt="memoQ Academy" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/memoq_academic_website_multiply_738x600px-04_738x600px.png 738w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/memoq_academic_website_multiply_738x600px-04_738x600px-300x244.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></a></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-3 fl-slide-text-left">
+			<div class="fl-slide-bg-photo"></div><a class="fl-slide-bg-link" href="https://www.memoq.com/resources/ebooks" target="_self" aria-label="Ready to learn? Get access to the memoQ eBook library!"></a>			<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h1 class="fl-slide-title">Ready to learn? Get access to the memoQ eBook library!</h1><div class="fl-slide-text"><p>Explore all our latest eBooks and learn about memoQ technology, industry news and much more!</p>
+</div><div class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/resources/ebooks" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Learn more</span>
+					</a>
+</div>
+</div></div></div><div class="fl-slide-photo-wrap"><div class="fl-slide-photo"><a href="https://www.memoq.com/resources/ebooks" target="_self"><noscript><img width="655" height="474" loading='false' class="fl-slide-photo-img wp-image-13404" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/09/illustration-ebook-4.svg" alt="" /></noscript><img width="655" height="474" loading='false' class="lazyload fl-slide-photo-img wp-image-13404" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20655%20474%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/09/illustration-ebook-4.svg" alt="" /></a></div></div>			</div>
+		</div>
+		</div>
+				<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-606f1b311c306" data-node="606f1b311c306">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-606f1b3142124" data-node="606f1b3142124">
+			<div class="fl-col fl-node-606f1b3142241" data-node="606f1b3142241">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-home-news fl-node-606f1b311af0b" data-node="606f1b311af0b">
+	<div class="fl-module-content fl-node-content">
+		<article class="mq-HomeNewsWrapper">
+			<section class="mq-HomeNews">
+			<div class="mq-HomeNews__inner">
+				<div class="mq-HomeNews__left">
+					<noscript><img
+						src="https://memoq-com.azureedge.net/wp-content/uploads/2021/03/icon-cog-hand.svg"
+						alt=""
+						class="mq-HomeNews__image"
+					></noscript><img
+					 src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/03/icon-cog-hand.svg"
+						alt=""
+						class="lazyload mq-HomeNews__image"
+					>
+				</div>
+				<div class="mq-HomeNews__right">
+					<span class="mq-HomeNews__title">memoQ 9.10 is now available!</span>
+					<a
+						href="https://www.memoq.com/memoq-versions/memoq-9-10"
+						class="mq-HomeNews__link btn btn-link"
+						target="_self"
+					>
+						Read more					</a>
+				</div>
+			</div>
+		</section>
+			<section class="mq-HomeNews">
+			<div class="mq-HomeNews__inner">
+				<div class="mq-HomeNews__left">
+					<noscript><img
+						src="https://memoq-com.azureedge.net/wp-content/uploads/2021/03/icon-ideas.svg"
+						alt=""
+						class="mq-HomeNews__image"
+					></noscript><img
+					 src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/03/icon-ideas.svg"
+						alt=""
+						class="lazyload mq-HomeNews__image"
+					>
+				</div>
+				<div class="mq-HomeNews__right">
+					<span class="mq-HomeNews__title">New features you might have missed!</span>
+					<a
+						href="https://www.memoq.com/memoq-features-you-missed"
+						class="mq-HomeNews__link btn btn-link"
+						target="_self"
+					>
+						Read more					</a>
+				</div>
+			</div>
+		</section>
+	</article>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be1a858704d2" data-node="5be1a858704d2">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be1a85885e0a fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5be1a85885e0a">
+			<div class="fl-col fl-node-5be1a85886079 fl-col-small" data-node="5be1a85886079">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60f696ef26ee5" data-node="60f696ef26ee5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-svg">
+				<noscript><img class="fl-photo-img wp-image-3892 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/playrix-logo.svg" alt="playrix logo" itemprop="image" height="85.333336" width="236.444" title="playrix logo"  /></noscript><img class="lazyload fl-photo-img wp-image-3892 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20236%2085%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/playrix-logo.svg" alt="playrix logo" itemprop="image" height="85.333336" width="236.444" title="playrix logo"  />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be1a85886089 fl-col-small" data-node="5be1a85886089">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5be1a88c287ff" data-node="5be1a88c287ff">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-3890 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge.png" alt="logo gameforge" itemprop="image" height="95" width="452" title="logo gameforge" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge.png 452w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge-300x63.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge-448x95.png 448w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-3890 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20452%2095%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge.png" alt="logo gameforge" itemprop="image" height="95" width="452" title="logo gameforge" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge.png 452w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge-300x63.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/logo_gameforge-448x95.png 448w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be1a8588609d fl-col-small" data-node="5be1a8588609d">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5fa54bd078896" data-node="5fa54bd078896">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<noscript><img class="fl-photo-img wp-image-3897 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119.jpg" alt="gamevil logo" itemprop="image" height="123" width="310" title="gamevil_logo" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119.jpg 310w, https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119-300x119.jpg 300w, https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119-160x64.jpg 160w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-3897 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20310%20123%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119.jpg" alt="gamevil logo" itemprop="image" height="123" width="310" title="gamevil_logo" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119.jpg 310w, https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119-300x119.jpg 300w, https://memoq-com.azureedge.net/wp-content/uploads/2019/01/gamevil_logo2-e1562671591119-160x64.jpg 160w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be1a858860a5 fl-col-small" data-node="5be1a858860a5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5d24a7a06bcd5" data-node="5d24a7a06bcd5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-3885 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/funstage-logo-black.png" alt="funstage logo" itemprop="image" height="85" width="300" title="funstage-logo--black"  /></noscript><img class="lazyload fl-photo-img wp-image-3885 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%2085%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/funstage-logo-black.png" alt="funstage logo" itemprop="image" height="85" width="300" title="funstage-logo--black"  />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5d24a7a7637e9 fl-col-small" data-node="5d24a7a7637e9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5be1a8d470495" data-node="5be1a8d470495">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<noscript><img class="fl-photo-img wp-image-3887 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px.jpg" alt="Logo Baur" itemprop="image" height="124" width="400" title="Logo Baur" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px.jpg 400w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px-300x93.jpg 300w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-3887 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20124%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px.jpg" alt="Logo Baur" itemprop="image" height="124" width="400" title="Logo Baur" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px.jpg 400w, https://memoq-com.azureedge.net/wp-content/uploads/2019/07/GR_BAUR_logo_blue_claim_4c_400px-300x93.jpg 300w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-60f69aee24326 fl-col-small" data-node="60f69aee24326">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60f69ad378daa" data-node="60f69ad378daa">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-15495 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/canada_hockey_small.png" alt="canada_hockey_small" itemprop="image" height="124" width="157" title="canada_hockey_small"  /></noscript><img class="lazyload fl-photo-img wp-image-15495 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20157%20124%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/canada_hockey_small.png" alt="canada_hockey_small" itemprop="image" height="124" width="157" title="canada_hockey_small"  />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-60f698857779c fl-col-small" data-node="60f698857779c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60f6988120823" data-node="60f6988120823">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-15484 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo.png" alt="DB_small_logo" itemprop="image" height="124" width="400" title="DB_small_logo" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo.png 400w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo-300x93.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-15484 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20124%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo.png" alt="DB_small_logo" itemprop="image" height="124" width="400" title="DB_small_logo" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo.png 400w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_small_logo-300x93.png 300w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-60f6997021b9c fl-col-small" data-node="60f6997021b9c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60f6996bbaeb0" data-node="60f6996bbaeb0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-15479 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo.png" alt="presence_s_logo" itemprop="image" height="124" width="400" title="presence_s_logo" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo.png 400w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo-300x93.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-15479 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20124%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo.png" alt="presence_s_logo" itemprop="image" height="124" width="400" title="presence_s_logo" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo.png 400w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_s_logo-300x93.png 300w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-60f6998cddf62 fl-col-small" data-node="60f6998cddf62">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-60f69984c507c" data-node="60f69984c507c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-15489 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo.png" alt="PSI_s_logo" itemprop="image" height="124" width="357" title="PSI_s_logo" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo.png 357w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo-300x104.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-15489 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20357%20124%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo.png" alt="PSI_s_logo" itemprop="image" height="124" width="357" title="PSI_s_logo" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo.png 357w, https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_s_logo-300x104.png 300w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-6177b4f85acd3 fl-col-small" data-node="6177b4f85acd3">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-6177b4f38380c" data-node="6177b4f38380c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-16404 size-medium" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png" alt="arte_logo_cmyk" itemprop="image" height="77" width="300" title="arte_logo_cmyk" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1024x263.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-768x197.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1536x394.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-2048x526.png 2048w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-16404 size-medium" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%2077%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png" alt="arte_logo_cmyk" itemprop="image" height="77" width="300" title="arte_logo_cmyk" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1024x263.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-768x197.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1536x394.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-2048x526.png 2048w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be29036f2b5b BBRow--Top120 BBRow--Bottom0" data-node="5be29036f2b5b">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be29037127d8" data-node="5be29037127d8">
+			<div class="fl-col fl-node-5be29037129bf" data-node="5be29037129bf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be29036f1d37" data-node="5be29036f1d37">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Streamline Your Translation and Localization Processes with memoQ</span>
+	</h2>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be43e6484ec2 BBImageOnTheSide BBRow--Top96 BBRow--Bottom0" data-node="5be43e6484ec2">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be43e6486645 fl-col-group-equal-height fl-col-group-align-center fl-col-group-responsive-reversed" data-node="5be43e6486645">
+			<div class="fl-col fl-node-5be43e6486648 fl-col-small" data-node="5be43e6486648">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be43e648664b" data-node="5be43e648664b">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">For enterprises</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5be43e648664f BBImageOnTheSide__text" data-node="5be43e648664f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><span style="font-weight: 400;">Manage and automate your localization processes on a global scale with the memoQ translation management system. Enterprises appreciate tailor-made memoQ features such as flexible workflow management, easy project tracking, automated quality checks, advanced reports, customizability, connectivity, and much more.</span></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5be43e6486652 btn-container btn-primary-container" data-node="5be43e6486652">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/solutions/enterprises/" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">View solution</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be43e6486655 fl-col-small" data-node="5be43e6486655">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5be43e6486659" data-node="5be43e6486659">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-223 size-thirds-image-square" src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-352x352.png" alt="enterprise_solutions" itemprop="image" height="352" width="352" title="enterprise_solutions" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions.png 704w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-223 size-thirds-image-square" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20352%20352%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-352x352.png" alt="enterprise_solutions" itemprop="image" height="352" width="352" title="enterprise_solutions" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/enterprise_solutions.png 704w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be43f539abfb BBImageOnTheSide BBRow--Top96 BBRow--Bottom0" data-node="5be43f539abfb">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be43f539abd4 fl-col-group-equal-height fl-col-group-align-center" data-node="5be43f539abd4">
+			<div class="fl-col fl-node-5be43f539abe5 fl-col-small" data-node="5be43f539abe5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5be43f539abf8" data-node="5be43f539abf8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-227 size-thirds-image-square" src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-352x352.png" alt="language_service_providers" itemprop="image" height="352" width="352" title="language_service_providers" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers.png 704w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-227 size-thirds-image-square" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20352%20352%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-352x352.png" alt="language_service_providers" itemprop="image" height="352" width="352" title="language_service_providers" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2018/11/language_service_providers.png 704w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be43f539abeb fl-col-small" data-node="5be43f539abeb">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be43f539abef" data-node="5be43f539abef">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">For language service providers</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5be43f539abf2 BBImageOnTheSide__text" data-node="5be43f539abf2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><span style="font-weight: 400;">Language service providers handle a large number and variety of files and projects daily. memoQ is a stable technology providing a collaborative translation environment that facilitates </span><span style="font-weight: 400;">and speeds up translation processes with advanced features. </span></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5be43f539abf5 btn-container btn-primary-container" data-node="5be43f539abf5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/solutions/language-service-providers" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">View solution</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be43fac268c8 BBImageOnTheSide BBRow--Top96 BBRow--Bottom0" data-node="5be43fac268c8">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be43fac268a6 fl-col-group-equal-height fl-col-group-align-center fl-col-group-responsive-reversed" data-node="5be43fac268a6">
+			<div class="fl-col fl-node-5be43fac268b1 fl-col-small" data-node="5be43fac268b1">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be43fac268ba" data-node="5be43fac268ba">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">For translators</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5be43fac268bd BBImageOnTheSide__text" data-node="5be43fac268bd">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><span style="font-weight: 400;">Whether you translate or review translations, memoQ translator pro is specifically designed by translators for translators to effectively support your day-to-day tasks. </span></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5be43fac268c1 btn-container btn-primary-container" data-node="5be43fac268c1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/solutions/translators" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">View solution</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be43fac268b6 fl-col-small" data-node="5be43fac268b6">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5be43fac268c4" data-node="5be43fac268c4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<noscript><img class="fl-photo-img wp-image-14848 size-full" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected.png" alt="Translators" itemprop="image" height="704" width="704" title="translators_corrected" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected.png 704w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-96x96.png 96w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-64x64.png 64w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-48x48.png 48w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-216x216.png 216w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-14848 size-full" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20704%20704%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected.png" alt="Translators" itemprop="image" height="704" width="704" title="translators_corrected" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected.png 704w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-96x96.png 96w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-64x64.png 64w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-48x48.png 48w, https://memoq-com.azureedge.net/wp-content/uploads/2021/05/translators_corrected-216x216.png 216w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5ca368814f4be BBRow--Top72" data-node="5ca368814f4be">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5ca368819585d" data-node="5ca368819585d">
+			<div class="fl-col fl-node-5ca368819598c" data-node="5ca368819598c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-separators fl-node-5ca368814e315" data-node="5ca368814e315">
+	<div class="fl-module-content fl-node-content">
+			<div class="mq-Separator mq-Separator--dashed tc-Separator--dashed"></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5c10f8e39c430 BBRow--Top96 BBRow--Bottom0" data-node="5c10f8e39c430">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5c10f8e3cd5ce" data-node="5c10f8e3cd5ce">
+			<div class="fl-col fl-node-5c10f8e3cdbbf" data-node="5c10f8e3cdbbf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be596219cf63" data-node="5be596219cf63">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Diverse Industry Needs</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5c811145b77c9" data-node="5c811145b77c9">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5c811145e8d91" data-node="5c811145e8d91">
+			<div class="fl-col fl-node-5c811145e8e46" data-node="5c811145e8e46">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-card-grid fl-node-5cb8696a77e50" data-node="5cb8696a77e50">
+	<div class="fl-module-content fl-node-content">
+		<section class="
+	mq-CardGrid tc-CardGrid
+	 mq-CardGrid__home">
+			<section class="mq-CardGridCard__Wrapper">
+			<section class="
+				mq-CardGridCard 
+							">
+				<section class="mq-CardGridCard__Inner">
+											<div class="
+							mq-CardGridCard__ImageWrapper
+							mq-CardGridCard__ImageWrapper--WithBackground							">
+							<noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/game-controller-wireless.png" class="mq-CardGridCard__Photo" alt="game controller" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/game-controller-wireless.png" class="lazyload mq-CardGridCard__Photo" alt="game controller" data-sizes="(min-width: 960px) 75vw, 100vw" />						</div>
+																<h4 class="default mq-CardGridCard__Title">
+							Software and game localization						</h4>
+																<span class="mq-CardGridCard__Description">
+							Unleash your game’s full potential using the memoQ translation management system. Enter new foreign markets with localized content to reach a broader audience and increase your revenue.						</span>
+														</section>
+
+								<section class="mq-CardGridCard__BottomContainer">
+																		<a class="mq-CardGridCard__Link btn btn-link " href="https://www.memoq.com/solutions/game-localization" target="_self">
+								View solution							</a>
+																				</section>
+							</section>
+		</section>
+			<section class="mq-CardGridCard__Wrapper">
+			<section class="
+				mq-CardGridCard 
+							">
+				<section class="mq-CardGridCard__Inner">
+											<div class="
+							mq-CardGridCard__ImageWrapper
+							mq-CardGridCard__ImageWrapper--WithBackground							">
+							<noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/science-dna.png" class="mq-CardGridCard__Photo" alt="science" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/04/science-dna.png" class="lazyload mq-CardGridCard__Photo" alt="science" data-sizes="(min-width: 960px) 75vw, 100vw" />						</div>
+																<h4 class="default mq-CardGridCard__Title">
+							Life science localization						</h4>
+																<span class="mq-CardGridCard__Description">
+							Life science localization requires just as much attention as the services delivered by the industry itself. When lives are at stake, there is no room for error.						</span>
+														</section>
+
+								<section class="mq-CardGridCard__BottomContainer">
+																		<a class="mq-CardGridCard__Link btn btn-link " href="https://www.memoq.com/solutions/life-science-localization" target="_self">
+								View solution							</a>
+																				</section>
+							</section>
+		</section>
+			<section class="mq-CardGridCard__Wrapper">
+			<section class="
+				mq-CardGridCard 
+							">
+				<section class="mq-CardGridCard__Inner">
+											<div class="
+							mq-CardGridCard__ImageWrapper
+							mq-CardGridCard__ImageWrapper--WithBackground							">
+							<noscript><img width="48" height="48" src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/download-webinars.svg" class="mq-CardGridCard__Photo" alt="webinars" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="48" height="48" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2048%2048%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2019/03/download-webinars.svg" class="lazyload mq-CardGridCard__Photo" alt="webinars" data-sizes="(min-width: 960px) 75vw, 100vw" />						</div>
+																<h4 class="default mq-CardGridCard__Title">
+							Audiovisual/Multimedia localization						</h4>
+																<span class="mq-CardGridCard__Description">
+							The demand for audiovisual (AV) content is soaring. Translation technology helps AV translators increase productivity, improve translation quality, and meet tight deadlines.						</span>
+														</section>
+
+								<section class="mq-CardGridCard__BottomContainer">
+																		<a class="mq-CardGridCard__Link btn btn-link " href="https://www.memoq.com/solutions/audiovisual-translation-localization" target="_self">
+								View solution							</a>
+																				</section>
+							</section>
+		</section>
+	</section>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5c10f9aad660c BBRow--Top96 BBRow--Bottom120" data-node="5c10f9aad660c">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5c10f9ab0f896" data-node="5c10f9ab0f896">
+			<div class="fl-col fl-node-5c10f9ab0fc32" data-node="5c10f9ab0fc32">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-button fl-node-5be9287b4c7c3 btn-container btn-primary-container" data-node="5be9287b4c7c3">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="https://www.memoq.com/solutions/" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Find your solution</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5be454fd42e7b BBRow--Top120 BBRow--Bottom120" data-node="5be454fd42e7b">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be6b5e7e77eb" data-node="5be6b5e7e77eb">
+			<div class="fl-col fl-node-5be6b5e7e7a2c" data-node="5be6b5e7e7a2c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be6b5e7e76a2" data-node="5be6b5e7e76a2">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Join the Community of Successful Companies and Professionals Using memoQ</span>
+	</h2>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5be454fd5e149" data-node="5be454fd5e149">
+			<div class="fl-col fl-node-5be454fd5e369" data-node="5be454fd5e369">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-separator fl-node-61b9ba7c29bdf" data-node="61b9ba7c29bdf">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-mq-customer-stories fl-node-5be454fd41cd2" data-node="5be454fd41cd2">
+	<div class="fl-module-content fl-node-content">
+		<article
+	class="mq-CustomerStories tc-Customer-Stories"
+	data-js-module="mq-customerStories"
+	data-js-module-id="5be454fd41cd2"
+	data-js-module-options='{"customer_stories":["711","2585","2586","2587","2588","4037","13538","15396","15411","15470","16403"],"auto_play":"1","pause_on_hover":"1","auto_height":"0","slide_delay":"8000","slide_animation_duration":"750","responsive_display":"","visibility_display":"","visibility_user_capability":"","visibility_logic":"[]","animation":{"style":"","delay":"0.0","duration":"1"},"container_element":"div","id":"","class":"","node_label":"","export":"","import":"","margin_top":"","margin_unit":"px","margin_top_medium":"","margin_medium_unit":"px","margin_top_responsive":"","margin_responsive_unit":"px","margin_right":"","margin_right_medium":"","margin_right_responsive":"","margin_bottom":"","margin_bottom_medium":"","margin_bottom_responsive":"","margin_left":"","margin_left_medium":"","margin_left_responsive":"","type":"mq-customer-stories"}'
+>
+
+	<section class="mq-CustomerStories__slider">
+		<section class="mq-CustomerStories__nav mq-CustomerStories__nav--left">
+			<span
+				class="lazyload mq-CustomerStories__previous"
+				data-js-owl="prev.owl.carousel"
+			 data-bg="https://memoq-com.azureedge.net/wp-content/plugins/memoq-custom-bb/assets/image/arrow.svg"	style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E)"
+			></span>
+		</section>
+
+		<section class="mq-CustomerStories__slides">
+			<div class="owl-carousel owl-theme" data-js-slider>
+									<article class="mq-CustomerStories__slide">
+						<header class="mq-CustomerStories__quote">&quot;After considering different TMS solutions, ARTE TV decided to go with memoQ in 2019. It ticks all of our boxes: It&#039;s got an intuitive user interface for both our translators and PMs, and there are different deployment options. memoQ also provided us with training in French and German. Since switching to a TMS, our translation workflow has become more seamless without ever having to worry about poor quality.&quot;</header>
+						<footer>
+							<!-- <figure class="mq-CustomerStories__customerAvatar" style="background-image: url()"></figure> -->
+							<div class="mq-CustomerStories__customerName">Nicolas Beckers</div>
+							<div class="mq-CustomerStories__customerRole">Head of Linguistic Department at Arte</div>
+							<figure class="mq-CustomerStories__customerLogo">
+								<noscript><img width="8000" height="2053" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk.png" class="mq-CustomerStories__customerLogoImg img-fluid" alt="" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk.png 8000w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1024x263.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-768x197.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1536x394.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-2048x526.png 2048w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="8000" height="2053" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%204999%201282.868375%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk.png" class="lazyload mq-CustomerStories__customerLogoImg img-fluid" alt="" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk.png 8000w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-300x77.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1024x263.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-768x197.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-1536x394.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/10/arte_logo_cmyk-2048x526.png 2048w" data-sizes="(min-width: 960px) 75vw, 100vw" />							</figure>
+						</footer>
+					</article>
+									<article class="mq-CustomerStories__slide">
+						<header class="mq-CustomerStories__quote">“We want to keep control over our data throughout the entire translation process; in other words, we want to know who is working with our data and how.” </header>
+						<footer>
+							<!-- <figure class="mq-CustomerStories__customerAvatar" style="background-image: url()"></figure> -->
+							<div class="mq-CustomerStories__customerName">Annette Kraus</div>
+							<div class="mq-CustomerStories__customerRole">Head of DB Language Management </div>
+							<figure class="mq-CustomerStories__customerLogo">
+								<noscript><img width="283" height="198" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_logo.svg" class="mq-CustomerStories__customerLogoImg img-fluid" alt="Deutsche Bahn logo" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="283" height="198" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20283%20198%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/DB_logo.svg" class="lazyload mq-CustomerStories__customerLogoImg img-fluid" alt="Deutsche Bahn logo" data-sizes="(min-width: 960px) 75vw, 100vw" />							</figure>
+						</footer>
+					</article>
+									<article class="mq-CustomerStories__slide">
+						<header class="mq-CustomerStories__quote">“The main reason we chose memoQ over other solutions on the market is that it is user-friendly and has a lot of features that can be adapted to specific workflows and offers a variety of solutions. The LiveDocs feature is what made it stand out among the competitors, providing the possibility of using our existing libraries and having live access to our documents.” </header>
+						<footer>
+							<!-- <figure class="mq-CustomerStories__customerAvatar" style="background-image: url()"></figure> -->
+							<div class="mq-CustomerStories__customerName">Elena Mikrioukova </div>
+							<div class="mq-CustomerStories__customerRole">Head of Translation Department</div>
+							<figure class="mq-CustomerStories__customerLogo">
+								<noscript><img width="446" height="174" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_logo_n-2.svg" class="mq-CustomerStories__customerLogoImg img-fluid" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="446" height="174" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20446%20174%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/PSI_logo_n-2.svg" class="lazyload mq-CustomerStories__customerLogoImg img-fluid" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" />							</figure>
+						</footer>
+					</article>
+									<article class="mq-CustomerStories__slide">
+						<header class="mq-CustomerStories__quote">The flexibility of XLS filter configurations helps us in preprocessing and postprocessing multilingual XLS files faster and minimize mistakes, and project templates ensure we keep all client resources (such as TMs, glossaries, and non-translatables) in one place.</header>
+						<footer>
+							<!-- <figure class="mq-CustomerStories__customerAvatar" style="background-image: url()"></figure> -->
+							<div class="mq-CustomerStories__customerName">Glenda Terenzi</div>
+							<div class="mq-CustomerStories__customerRole">Translations Manager</div>
+							<figure class="mq-CustomerStories__customerLogo">
+								<noscript><img width="477" height="115" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_n.svg" class="mq-CustomerStories__customerLogoImg img-fluid" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="477" height="115" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20477%20115%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/07/presence_n.svg" class="lazyload mq-CustomerStories__customerLogoImg img-fluid" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" />							</figure>
+						</footer>
+					</article>
+									<article class="mq-CustomerStories__slide">
+						<header class="mq-CustomerStories__quote">&quot;memoQ cloud gives us the flexibility we need by allowing for multiple project manager licenses, which, in turn, provides each member of our team with complete control of their workflow from start to finish while still sharing a collaborative environment.&quot;</header>
+						<footer>
+							<!-- <figure class="mq-CustomerStories__customerAvatar" style="background-image: url()"></figure> -->
+							<div class="mq-CustomerStories__customerName"></div>
+							<div class="mq-CustomerStories__customerRole">Manager, Translation &amp; Language Services – Hockey Canada</div>
+							<figure class="mq-CustomerStories__customerLogo">
+								<noscript><img width="242" height="232" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/11/canada_hockey.svg" class="mq-CustomerStories__customerLogoImg img-fluid" alt="" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="242" height="232" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20242%20232%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2020/11/canada_hockey.svg" class="lazyload mq-CustomerStories__customerLogoImg img-fluid" alt="" data-sizes="(min-width: 960px) 75vw, 100vw" />							</figure>
+						</footer>
+					</article>
+							</div>
+		</section>
+
+		<section class="mq-CustomerStories__nav mq-CustomerStories__nav--right">
+			<span
+				class="lazyload mq-CustomerStories__next"
+				data-js-owl="next.owl.carousel"
+			 data-bg="https://memoq-com.azureedge.net/wp-content/plugins/memoq-custom-bb/assets/image/arrow.svg"	style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E)"
+			></span>
+		</section>
+	</section>
+
+</article>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5c1100e0533e1" data-node="5c1100e0533e1">
+			<div class="fl-col fl-node-5c1100e053897" data-node="5c1100e053897">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-button fl-node-5c1100e0529d8 btn-container btn-link-container" data-node="5c1100e0529d8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="https://www.memoq.com/success-stories/" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Read more success stories</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5be6c2e8c50e9 BBCtaBanner Style--dark BBRow--Top120 BBRow--Bottom120" data-node="5be6c2e8c50e9">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5be6c2e8f1614" data-node="5be6c2e8f1614">
+			<div class="fl-col fl-node-5be6c2e8f19e5" data-node="5be6c2e8f19e5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5be6c494685f7" data-node="5be6c494685f7">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Transform Your Business Today with memoQ</span>
+	</h2>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5c1107903a8b9" data-node="5c1107903a8b9">
+			<div class="fl-col fl-node-5be6c5b71dd3a fl-col-small" data-node="5be6c5b71dd3a">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-button fl-node-5be6c4fc2f2e3 btn-container btn-primary-container" data-node="5be6c4fc2f2e3">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-right">
+			<a href="memoq.com/getting-started" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Get started</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5be6c5b71dd4b fl-col-small" data-node="5be6c5b71dd4b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-button fl-node-5be6c52648527 btn-container btn-secondary-container" data-node="5be6c52648527">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+			<a href="https://www.memoq.com/contact-us" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Contact sales</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5be6c7ceabb2b BBRow--Top120 BBRow--Bottom96" data-node="5be6c7ceabb2b">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5beac17ce3327" data-node="5beac17ce3327">
+			<div class="fl-col fl-node-5beac17ce37fb" data-node="5beac17ce37fb">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5beac17ce31b9" data-node="5beac17ce31b9">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Latest at memoQ</span>
+	</h2>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5beac1c9d4904" data-node="5beac1c9d4904">
+			<div class="fl-col fl-node-5beac1c9d4cc0 fl-col-small" data-node="5beac1c9d4cc0">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-post-tile fl-node-5c139a82d35de" data-node="5c139a82d35de">
+	<div class="fl-module-content fl-node-content">
+		
+<a class="mq-WrapingAchorTag mq-Post mq-Post--tile" href="https://www.memoq.com/resources/ebooks/memoq-and-the-remote-office" target="_self">
+	<article
+		class="lazyload 
+			mq-PostTile tc-PostTile
+					"
+				 data-bg="https://memoq-com.azureedge.net/wp-content/uploads/2020/03/Remote-work-eBook-promo-1136x456-1-1024x411.png"	style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E)">
+				<section class="mq-PostTile__caption">
+							<div class="mq-PostTile__label">
+					eBooks				</div>
+						<div class="mq-PostTile__title">
+				memoQ and the Remote Office			</div>
+		</section>
+	</article>
+</a>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5beac1c9d4ccd fl-col-small" data-node="5beac1c9d4ccd">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-post-tile fl-node-5c139aa4c736b" data-node="5c139aa4c736b">
+	<div class="fl-module-content fl-node-content">
+		
+<a class="mq-WrapingAchorTag mq-Post mq-Post--tile" href="https://www.memoq.com/resources/webinars/the-kalcium-quickterm-memoq-integration-explained-how-to-include-advanced-terminology-in-your-localization-workflow" target="_self">
+	<article
+		class="lazyload 
+			mq-PostTile tc-PostTile
+					"
+				 data-bg="https://memoq-com.azureedge.net/wp-content/uploads/2022/05/Jure_Klaus-Kaleidoscope-webinar.png"	style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E)">
+				<section class="mq-PostTile__caption">
+							<div class="mq-PostTile__label">
+					Webinars				</div>
+						<div class="mq-PostTile__title">
+				The Kalcium Quickterm-memoQ integration explained: how to include advanced terminology in your localization workflow			</div>
+		</section>
+	</article>
+</a>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5beac1c9d4cd5 fl-col-small" data-node="5beac1c9d4cd5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-post-tile fl-node-5c139ac140ce8" data-node="5c139ac140ce8">
+	<div class="fl-module-content fl-node-content">
+		
+<a class="mq-WrapingAchorTag mq-Post mq-Post--tile" href="https://www.memoq.com/resources/ebooks/automating-translation-project" target="_self">
+	<article
+		class="lazyload 
+			mq-PostTile tc-PostTile
+					"
+				 data-bg="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/memoq_website_cover_auto.png"	style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E)">
+				<section class="mq-PostTile__caption">
+							<div class="mq-PostTile__label">
+					eBooks				</div>
+						<div class="mq-PostTile__title">
+				Automating Your Translation Project			</div>
+		</section>
+	</article>
+</a>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5cf664f9165fe BBRow--Top0 BBRow--Bottom120" data-node="5cf664f9165fe">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5cf664f916946" data-node="5cf664f916946">
+			<div class="fl-col fl-node-5cf664f916947" data-node="5cf664f916947">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5cf664f916948" data-node="5cf664f916948">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">More from our blog</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-60cc3ce07d93f" data-node="60cc3ce07d93f">
+			<div class="fl-col fl-node-60cc3ce07da25" data-node="60cc3ce07da25">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-mq-custom-post-grid fl-node-60cc3ce07d8d1" data-node="60cc3ce07d8d1">
+	<div class="fl-module-content fl-node-content">
+				<div
+			class="mq-PostGrid mq-PostGrid--default"
+			itemscope="itemscope"
+			itemtype="https://schema.org/Blog"
+		>
+			<article
+	class="mq-Post mq-Post--default tc-Post--default"
+>
+	<a class="mq-PostDefault__image" href="https://blog.memoq.com/how-to-become-a-localization-project-manager" target="_self">
+		<noscript><img src="https://files.memoq.com/hubfs/memoq-blog-950x497-PM3_Become-translatorPM.png" alt="" title=""></noscript><img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://files.memoq.com/hubfs/memoq-blog-950x497-PM3_Become-translatorPM.png" alt="" title="">	</a>
+	<section class="mq-PostDefault__caption">
+		<a class="mq-PostDefault__title" href="https://blog.memoq.com/how-to-become-a-localization-project-manager" target="_self">How to Become a Localization Project Manager</a>
+		<section class="mq-PostDefault__meta">
+			<span class="mq-PostAuthor__name">Zsófia Lelner</span>
+							•
+						<span class="mq-PostAuthor__date">May 23, 2022</span>
+		</section>
+	</section>
+</article>
+<article
+	class="mq-Post mq-Post--default tc-Post--default"
+>
+	<a class="mq-PostDefault__image" href="https://blog.memoq.com/the-human-factor-in-the-development-of-translation-software" target="_self">
+		<noscript><img src="https://files.memoq.com/hubfs/memoq-blog-950x497-MT-ethical.png" alt="" title=""></noscript><img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://files.memoq.com/hubfs/memoq-blog-950x497-MT-ethical.png" alt="" title="">	</a>
+	<section class="mq-PostDefault__caption">
+		<a class="mq-PostDefault__title" href="https://blog.memoq.com/the-human-factor-in-the-development-of-translation-software" target="_self">The Human Factor in the Development of Translation Software</a>
+		<section class="mq-PostDefault__meta">
+			<span class="mq-PostAuthor__name">Balázs Kis</span>
+							•
+						<span class="mq-PostAuthor__date">April 27, 2022</span>
+		</section>
+	</section>
+</article>
+<article
+	class="mq-Post mq-Post--default tc-Post--default"
+>
+	<a class="mq-PostDefault__image" href="https://blog.memoq.com/machine-translation-the-complete-guide" target="_self">
+		<noscript><img src="https://files.memoq.com/hubfs/MT%20blog%20cover.png" alt="" title=""></noscript><img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://files.memoq.com/hubfs/MT%20blog%20cover.png" alt="" title="">	</a>
+	<section class="mq-PostDefault__caption">
+		<a class="mq-PostDefault__title" href="https://blog.memoq.com/machine-translation-the-complete-guide" target="_self">Machine Translation: The Complete Guide</a>
+		<section class="mq-PostDefault__meta">
+			<span class="mq-PostAuthor__name">Zsófia Lelner</span>
+							•
+						<span class="mq-PostAuthor__date">March 29, 2022</span>
+		</section>
+	</section>
+</article>
+		</div>
+			</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-60cc40052f98f" data-node="60cc40052f98f">
+			<div class="fl-col fl-node-60cc40052fabf" data-node="60cc40052fabf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-button fl-node-60cc3fa8ba51e btn-container btn-primary-container" data-node="60cc3fa8ba51e">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="https://blog.memoq.com/" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Read more on the blog</span>
+					</a>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-61b75b0650303" data-node="61b75b0650303">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-61b75b0679215" data-node="61b75b0679215">
+			<div class="fl-col fl-node-61b75b3f1ecf9 fl-col-small" data-node="61b75b3f1ecf9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-61b75b3f1ec1f" data-node="61b75b3f1ec1f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.memoq.com/memoq-quality-policy" target="_self" itemprop="url">
+				<noscript><img class="fl-photo-img wp-image-16746 size-medium" src="https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-300x300.png" alt="Balazs" itemprop="image" height="300" width="300" title="Balazs" srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-1024x1024.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-768x768.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-1536x1536.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-2048x2048.png 2048w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-96x96.png 96w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-64x64.png 64w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-48x48.png 48w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-216x216.png 216w" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img class="lazyload fl-photo-img wp-image-16746 size-medium" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20300%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-300x300.png" alt="Balazs" itemprop="image" height="300" width="300" title="Balazs" data-srcset="https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-300x300.png 300w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-1024x1024.png 1024w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-150x150.png 150w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-768x768.png 768w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-1536x1536.png 1536w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-2048x2048.png 2048w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-352x352.png 352w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-96x96.png 96w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-64x64.png 64w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-48x48.png 48w, https://memoq-com.azureedge.net/wp-content/uploads/2021/12/Balazs-216x216.png 216w" data-sizes="(min-width: 960px) 75vw, 100vw" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-61b75b06792ce" data-node="61b75b06792ce">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-61b75b064f524" data-node="61b75b064f524">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h5><em>"At memoQ, we live to provide our customers with a translation management solution that they can rely on every day, every minute. This is not possible without the closest attention to quality and information security. These are the cornerstones of customer focus. We keep them under the closest control, and we are proud to prove this by independent reports."</em></h5>
+<h6>Balázs Kis<br />
+CEO, memoQ</h6>
+<p><a href="https://www.memoq.com/memoq-quality-policy">Learn more about memoQ's quality policy statement.</a></p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>	</div><!-- .entry-content -->
+
+	</article><!-- #post-12 -->
+
+
+	</main><!-- #primary -->
+
+<div class="jobinput d-none">Home</div>
+<script>
+	jQuery(document).ready(function(){
+        jQuery("#resume").change(function(){
+           var filename = jQuery('input[type=file]').val().split('\\').pop();
+		   jQuery(".mgjobs-form-upload").html(filename).addClass("mqjobs-form-upload-dark");
+		   let jobtitle = jQuery(".jobinput").html();
+		   jQuery(".jobtitleinput").val(jobtitle) ;
+        });
+    });
+</script>
+
+<footer id="colophon" class="Footer">
+	<link rel='stylesheet' id='memoq-footer-css'  href='https://memoq-com.azureedge.net/wp-content/themes/memoq/css/footer.css?ver=200902' type='text/css' media='all' />
+	<article class="FooterNavigation">
+		<div class="Row">
+			<div class="Container">
+				<div class="FooterNavigation__inner">
+											<section class="FooterColumn FooterColumn--1 d-none d-md-block">
+							<section id="nav_menu-3" class="widget widget_nav_menu"><header class="FooterNavigation__title LeadText">Solutions</header><div class="menu-footer-solutions-container"><ul id="menu-footer-solutions" class="menu"><li id="menu-item-4542" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4542"><a href="https://www.memoq.com/solutions/audiovisual-translation-localization">Audiovisual Translation</a></li>
+<li id="menu-item-4543" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4543"><a href="https://www.memoq.com/solutions/game-localization">Game Localization</a></li>
+<li id="menu-item-4546" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4546"><a href="https://www.memoq.com/solutions/life-science-localization">Life Sciences Translation</a></li>
+<li id="menu-item-4547" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4547"><a href="https://www.memoq.com/solutions/enterprises">Enterprises</a></li>
+<li id="menu-item-4545" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4545"><a href="https://www.memoq.com/solutions/language-service-providers">Language Service Providers</a></li>
+<li id="menu-item-4544" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-4544"><a href="https://www.memoq.com/solutions/translators">Translators</a></li>
+<li id="menu-item-4666" class="btn btn-link menu-item menu-item-type-post_type menu-item-object-page menu-item-4666"><a href="https://www.memoq.com/solutions">View all solutions</a></li>
+</ul></div></section>						</section>
+																<section class="FooterColumn FooterColumn--2 d-none d-md-block">
+							<section id="nav_menu-4" class="widget widget_nav_menu"><header class="FooterNavigation__title LeadText">Products</header><div class="menu-footer-products-container"><ul id="menu-footer-products" class="menu"><li id="menu-item-4560" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4560"><a href="https://www.memoq.com/products/memoq-server">memoQ server</a></li>
+<li id="menu-item-4556" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4556"><a href="https://www.memoq.com/products/memoq-cloud">memoQ cloud</a></li>
+<li id="menu-item-4559" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4559"><a href="https://www.memoq.com/products/memoq-project-manager">memoQ project manager</a></li>
+<li id="menu-item-4558" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4558"><a href="https://www.memoq.com/products/memoq-translator-pro">memoQ translator pro</a></li>
+<li id="menu-item-4557" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-4557"><a href="https://www.memoq.com/products/hey-memoq">Hey memoQ</a></li>
+<li id="menu-item-4667" class="btn btn-link menu-item menu-item-type-post_type menu-item-object-page menu-item-4667"><a href="https://www.memoq.com/products">View all products</a></li>
+</ul></div></section>						</section>
+																<section class="FooterColumn FooterColumn--3 d-none d-md-block">
+							<section id="nav_menu-5" class="widget widget_nav_menu"><header class="FooterNavigation__title LeadText">Resources</header><div class="menu-footer-resources-container"><ul id="menu-footer-resources" class="menu"><li id="menu-item-17536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17536"><a href="https://www.memoq.com/downloads">Download memoQ</a></li>
+<li id="menu-item-4550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4550"><a href="https://www.memoq.com/translators-essentials">Translators&#8217; Essentials</a></li>
+<li id="menu-item-4551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4551"><a href="https://www.memoq.com/localization-essentials">Localization Essentials</a></li>
+<li id="menu-item-4552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4552"><a href="https://www.memoq.com/success-stories">Success Stories</a></li>
+<li id="menu-item-11099" class="menu-item menu-item-type-post_type_archive menu-item-object-ebook menu-item-11099"><a href="https://www.memoq.com/resources/ebooks">eBooks</a></li>
+<li id="menu-item-4554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4554"><a href="https://www.memoq.com/resources/webinars">Webinars</a></li>
+<li id="menu-item-4555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4555"><a target="_blank" rel="noopener" href="https://blog.memoq.com/">Blog</a></li>
+<li id="menu-item-13984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13984"><a href="https://brand.memoq.com/">Brand resources</a></li>
+</ul></div></section>						</section>
+																<section class="FooterColumn FooterColumn--4">
+							<section id="nav_menu-6" class="widget widget_nav_menu"><header class="FooterNavigation__title LeadText">Get in touch</header><div class="menu-footer-connect-container"><ul id="menu-footer-connect" class="menu"><li id="menu-item-302" class="contact menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a href="mailto:%20sales@memoq.com">Contact us</a></li>
+<li id="menu-item-306" class="linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-306"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/567092">Follow us on LinkedIn</a></li>
+<li id="menu-item-303" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-303"><a target="_blank" rel="noopener" href="https://www.facebook.com/memoQ">Like us on Facebook</a></li>
+<li id="menu-item-304" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-304"><a target="_blank" rel="noopener" href="https://twitter.com/memoq_official?lang=en">Follow us on Twitter</a></li>
+<li id="menu-item-305" class="youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-305"><a target="_blank" rel="noopener" href="https://www.youtube.com/c/memoQ-translation-technologies">Watch us on Youtube</a></li>
+</ul></div></section>						</section>
+									</div>
+			</div>
+		</div>
+	</article>
+	<article class="FooterBar">
+		<div class="Row">
+			<div class="Container">
+				<section class="FooterBar__inner">
+					<div class="Copyright">
+						&copy; 2022 memoQ
+					</div>
+											<section id="nav_menu-7" class="widget widget_nav_menu"><div class="menu-footer-legal-container"><ul id="menu-footer-legal" class="menu"><li id="menu-item-11077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11077"><a href="https://www.memoq.com/legal">Legal overview</a></li>
+<li id="menu-item-10012" class="menu-item menu-item-type-post_type menu-item-object-legal_document menu-item-10012"><a href="https://www.memoq.com/legal/cookies-policy">Cookies policy</a></li>
+<li id="menu-item-16745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16745"><a href="/memoq-quality-policy">Quality policy</a></li>
+</ul></div></section><section id="media_image-2" class="widget widget_media_image"><noscript><img width="110" height="32" src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_dark.svg" class="image wp-image-311  attachment-medium size-medium" alt="memoQ dark logo" style="max-width: 100%; height: auto;" sizes="(min-width: 960px) 75vw, 100vw" /></noscript><img width="110" height="32" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20110%2032%22%3E%3C/svg%3E' data-src="https://memoq-com.azureedge.net/wp-content/uploads/2018/11/logo_dark.svg" class="lazyload image wp-image-311  attachment-medium size-medium" alt="memoQ dark logo" style="max-width: 100%; height: auto;" data-sizes="(min-width: 960px) 75vw, 100vw" /></section>									</section>
+			</div>
+		</div>
+	</article>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWQ3LDK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript">
+jQuery(document).ready(function($){
+    "use strict";
+    var ajaxurl = "https://www.memoq.com/wp-admin/admin-ajax.php";
+    var landingpage;
+    var id;
+    var source = $('.utm').val();
+    var hubspot = $('.hubspot').val();
+    var lp0 = $('.lp0').val();
+    var lp1 = $('.lp1').val();
+    var lp2 = $('.lp2').val();
+    var lp3 = $('.lp3').val();
+    var lp4 = $('.lp4').val();
+    var lp5 = $('.lp5').val();
+
+    $('.mqgs-intro-section .mqgs-nextstep').click(function(){
+        $('.mq-getting-started').css({"display":"flex"});
+        $('.mqgs-intro-section').css({"display":"none"});
+        dataLayer.push({
+            'event': 'widgetQuestionShown',
+            'widgetQuestion': 'Please select the category that best describes you',
+            'stepNo': 1,
+            'lastQuestion': '-',
+            'lastAnswer': '-',
+        });
+    })
+
+    /******* Go ahead *******/
+    $('[name="category"]').on('change', function () {
+        var selectedhead = $('[name="category"]:checked').next('label').text();
+        var selectedval =$('[name="category"]:checked').val();
+        $('.mqgs-step2head').html(selectedhead).addClass("is-activea").prev().addClass("after");
+        $('.mqgs-step2head').click(function(){
+            $('.icon11, .icon12, .icon13, .icon14, .icon15, .icon16, .icon17').removeClass("is-active");
+            $('.mqgs-step2').removeClass("is-active").prev().addClass("is-active");
+            $('.mqgs-step3head').empty();
+            $('.mqgs-icon2').removeClass("afterimg");
+            $('.mqgs-step2 .mqgs-nextstep').addClass("inactive");
+            $('.mqgs-step4').removeClass("is-active");
+            $('.mqgs-sectionleft, .mqgs-steps').removeClass("nonevis");
+            $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').removeClass("mqgs-fullgrid");
+            $('.mqgs-step3').removeClass("is-active");
+            $('.mqgs-submit.big.mqgs-button, .mqgs-video-container, .mqgs-video-section .mqgs-controls').remove();
+            $('html, body').animate({
+                scrollTop: $("#mqgs-topcont").offset().top
+            }, 2000);
+            $('.mqgs-Inputfield__row.noteremove, .mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"flex"});
+
+        });
+        $('.icon1, .icon2, .icon3, .icon4, .icon5, .icon6, .icon7').removeClass("is-active");
+        $('.mqgs-icon2 .icon' + selectedval).addClass("is-active");
+        $('.mqgs-step1 .mqgs-nextstep').removeClass("inactive");
+        $('.mqgs-icon1').addClass("afterimg");
+    });
+
+
+    $(".mqgs-Form .mqgs-step1 .mqgs-nextstep").click(function() {
+        if(!$(".mqgs-step1 .mqgs-nextstep").hasClass("inactive")){
+            $('.mqgs-overlay').css({"display":"flex"});
+            //event.preventDefault();
+            var category = $('input[name="category"]:checked').val();
+            var selectedhead = $('[name="category"]:checked').next('label').text();
+            var data = {
+                'action': 'gs_memoq_plugin_frontend_ajax',
+                'category':   category,
+                'metavalue': selectedhead,
+                'lp0': lp0,
+                'lp1': lp1,
+                'lp2': lp2,
+                'lp3': lp3,
+                'lp4': lp4,
+                'lp5': lp5,
+                'source': source,
+                'hubspot': hubspot
+            }
+            dataLayer.push({
+                'event': 'widgetQuestionFilled',
+                'widgetQuestion': 'Please select the category that best describes you',
+                'stepNo': 1,
+                'widgetAnswer': selectedhead,
+            });
+            $.post(ajaxurl, data, function(response) {
+
+                var databack = JSON.parse(response);
+                $('.mqgs-overlay').css({"display":"none"});
+                if(databack.status == true && !databack.step4)
+                {
+                    landingpage = databack.landingpage;
+                    $('.mqgs-step1').removeClass("is-active").next().addClass("is-active");
+                    $('.mqgs-step2 .mqgs-container').html(databack.message);
+                    $('[name="options"]').on('change', function () {
+                        var selectedvalop =$('[name="options"]:checked').val();
+                        var selectedheadoption = $('[name="options"]:checked').next('label').text();
+                        $('.mqgs-step3head').html(selectedheadoption).addClass("is-activea").prev().addClass("after");
+                        $('.mqgs-step3head').click(function () {
+                            $('.mqgs-step4').removeClass("is-active");
+                            $('.mqgs-sectionleft, .mqgs-steps').removeClass("nonevis");
+                            $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').removeClass("mqgs-fullgrid");
+                            $('.mqgs-step3').removeClass("is-active").prev().addClass("is-active");
+                            $('.mqgs-submit.big.mqgs-button, .mqgs-video-container, .mqgs-video-section .mqgs-controls').remove();    
+                            $('html, body').animate({
+                                scrollTop: $("#mqgs-topcont").offset().top
+                            }, 2000);
+                            $('.mqgs-Inputfield__row.noteremove, .mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"flex"});
+      
+                        })
+                        $('.icon11, .icon12, .icon13, .icon14, .icon15, .icon16, .icon17').removeClass("is-active");
+                        $('.mqgs-icon3 .icon1' + selectedvalop).addClass("is-active");
+                        $('.mqgs-step2 .mqgs-nextstep').removeClass("inactive");
+                        $('.mqgs-icon2').addClass("afterimg");
+                    });
+                    id = databack.id;
+                }else if(databack.step4==1){
+                    $('.mqgs-step1').removeClass("is-active");
+                    $('.mqgs-step4').addClass("is-active");
+                    $('.mqgs-step1head').removeClass("is-active");
+                    $('.mqgs-step4head').addClass("is-active");
+                    $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').addClass("mqgs-fullgrid");
+                    $('.mqgs-sectionleft').addClass("nonevis");
+                    $('.mqgs-step4 .mqgs-formcontainer').html(databack.message);
+                    $(".mqgs-Input--select").select2();
+                    id = databack.id;
+                }else{
+                    $('.mqgs-step1 .mqgs-messageclass').html(databack.message);
+
+                }
+                
+            });
+        }
+    });
+
+    $(".mqgs-Form .mqgs-step2 .mqgs-nextstep").click(function() {
+        if(!$(".mqgs-step2 .mqgs-nextstep").hasClass("inactive")){
+            var options = $('input[name="options"]:checked').val();
+            var category = $('input[name="category"]:checked').val();
+            var selectedheadoption = $('[name="options"]:checked').next('label').text();
+            var data = {
+                'action': 'gs_memoq_plugin_frontend_ajax',
+                'options':   options,
+                'optionmetavalue': selectedheadoption,
+                'lp0': lp0,
+                'lp1': lp1,
+                'lp2': lp2,
+                'lp3': lp3,
+                'lp4': lp4,
+                'lp5': lp5,
+                'id': id,
+                'checkcategory' : category,
+            }
+            $('.mqgs-overlay').css({"display":"flex"});
+            dataLayer.push({
+                'event': 'widgetQuestionFilled',
+                'widgetQuestion': 'To help you navigate select an option below',
+                'stepNo': 2,
+                'widgetAnswer': selectedheadoption,
+            });
+            $.post(ajaxurl, data, function(response) {
+                var databack = JSON.parse(response);
+                landingpage = databack.landingpage;
+                var formhead = databack.formhead;
+                if(databack.subhead){
+                    var subhead = databack.subhead;
+                }
+                $('.mqgs-overlay').css({"display":"none"});
+                if(databack.generate == 1 && databack.status == true && databack.link)
+                {
+                    var selectedhead = $('[name="category"]:checked').next('label').text();
+                    var selectedheadoption = $('[name="options"]:checked').next('label').text();
+                    var button = $(this);
+                    $('.mqgs-step2').removeClass("is-active");
+                    $('.mqgs-step3').addClass("is-active");
+                    $('.mqgs-step2head').removeClass("is-active").next().addClass("is-active");
+                    $('.mqgs-sectionleft, .mqgs-steps').addClass("nonevis");
+                    $('.mqgs-controls').css({"position":"relative", "bottom":"0vh"});
+                    $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').addClass("mqgs-fullgrid");
+                    $('.mqgs-step3').append(databack.script);
+                    $('.mqgs-step3 .mqgs-quitpoint').click(function(){
+                    dataLayer.push({
+                        'event': 'widgetQuestionThankYou',
+                        'stepNo': 3,
+                        'widgetSteps': [{selectedheadoption, selectedhead}], 
+                    });
+                    window.location.href =  databack.link;
+                    });
+                    $('.landing').val(landingpage);
+                }else if(databack.step4 == 1 && databack.status == true && !databack.link)
+                {
+                    var button = $(this);
+                    if(subhead){
+                        $('.mqgs-subhead').html(subhead);
+                    }
+                    $('.mqgs-formhead').html(formhead);
+                    $('.mqgs-step2').removeClass("is-active")
+                    $('.mqgs-step4').addClass("is-active");
+                    $('.mqgs-sectionleft').addClass("nonevis");
+                    $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').addClass("mqgs-fullgrid");
+                    $('.mqgs-step2head').removeClass("is-active");
+                    $('.mqgs-step4head').addClass("is-active");
+                    $('.mqgs-step4 .mqgs-formcontainer').html(databack.message);
+                    $('.mqgs-video-section').html(databack.video);
+                    $('.mqgs-detalis.mqgs-button').click(function (){
+                        $('html, body').animate({
+                            scrollTop: $(".mq-getting-started").offset().top
+                        }, 1000)
+                    });
+                    $('.mqgs-Inputfield__row.noteremove, .mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"flex"});
+
+                    $(".mqgs-Input--select").select2();
+                    if(databack.buttons){
+                        $('.mqgs-Inputfield__row.noteremove, .mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"none"});
+                        $('.mq-getting-started .mqgs-controls').append(databack.buttons);
+                    }
+                    $('.landing').val(landingpage);
+                    $(".mqgs-video-section .mqgs-back").click(function() {
+                        var button1 = $(this);
+                        $('.mqgs-step4').removeClass("is-active");
+                        $('.mqgs-step2').addClass("is-active");
+                        $('.mqgs-sectionleft, .mqgs-steps').removeClass("nonevis");
+                        $('.mqgs-submit.big.mqgs-button, .mqgs-video-container, .mqgs-video-section .mqgs-controls').remove();
+                        $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').removeClass("mqgs-fullgrid");
+                        $('.mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"flex"});
+                    });
+                }else if(databack.status == true && !databack.generate && databack.link){
+                    $('.mqgs-formhead').html(formhead);
+                    var selectedhead = $('[name="category"]:checked').next('label').text();
+                    var selectedheadoption = $('[name="options"]:checked').next('label').text();
+                    dataLayer.push({
+                        'event': 'widgetQuestionThankYou',
+                        'stepNo': 2,
+                        'widgetSteps': [{selectedheadoption, selectedhead}],
+                    });
+                    window.location.href = databack.link;
+                }else{
+                    $('.mqgs-step2 .mqgs-messageclass').html(databack.message);
+                }
+            });
+        }
+    });
+    $(".mqgs-Form .mqgs-step3 .mqgs-schedule").click(function() {
+        var options = $('input[name="options"]:checked').val();
+        var schedule = 1;
+        var data = {
+            'action': 'gs_memoq_plugin_frontend_ajax',
+            'options':   options,
+            'schedule':   schedule,
+            'lp1': lp1,
+        }
+        $('.mqgs-overlay').css({"display":"flex"});
+        dataLayer.push({
+            'event': 'widgetQuestionFilled',
+            'widgetQuestion': 'To get the most out of memoQ, we recommend having one of our salesrepresentative help you find the best solution for your business needs',
+            'stepNo': 3,
+            'widgetAnswer': 'booking',
+        });
+        $.post(ajaxurl, data, function(response) {
+
+            var databack = JSON.parse(response);
+            var formhead = databack.formhead;
+            var landingpage = databack.landingpage;
+            if(databack.subhead){
+                var subhead = databack.subhead;
+            }
+            $('.mqgs-overlay').css({"display":"none"});
+            if(databack.step4 == 1 && databack.status == true)
+            {
+                var button = $(this);
+                $('.mqgs-subhead').html(subhead);
+                $('.mqgs-step3').removeClass("is-active");
+                $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').addClass("mqgs-fullgrid");
+                $('.mqgs-step4').addClass("is-active");
+                $('.mqgs-sectionleft').addClass("nonevis");
+                $('.mqgs-step3head').removeClass("is-active");
+                $('.mqgs-step4head').addClass("is-active");
+                $('.mqgs-step4 .mqgs-formcontainer').html(databack.message);
+                $(".mqgs-Input--select").select2();
+                $('.mqgs-formhead').html(formhead);
+                $('.landing').val(landingpage);
+            }
+        });
+
+    });
+    // add basic front-end ajax page scripts here
+    $('#mqgs_memoq_plugin_form').submit(function(event){
+        event.preventDefault();
+        // Vars
+        var selectedheadoption = $('[name="options"]:checked').next('label').text();
+        var selectedcat = $('[name="category"]:checked').val();
+        var selectedhead = $('[name="category"]:checked').next('label').text();
+        var optionsel = $('input[name="options"]:checked').val();
+        var first_name = $('#first_name').val();
+        var last_name = $('#last_name').val();
+        var work_email = $('#work_email').val();
+        var company = $('#company').val();
+        var country = $('#country option:selected').val();
+        if(country == "none"){
+            alert('Please select your country!');
+            event.preventDefault();
+        }
+        var phone = $('#phone').val();
+        var notes = $('#notes').val();
+        var terms1 = $('#terms1:checked').val();
+        var terms2 = $('#terms2:checked').val();
+        if(!landingpage){
+            var landingpage = $('.landing').val();
+        }
+
+        dataLayer.push({
+            'event': 'widgetFormThankYou',
+            'stepNo': 4,
+            'widgetSteps': [{selectedheadoption, selectedhead}],
+        });
+
+
+        var data = {
+            'action': 'gs_memoq_plugin_frontend_ajax',
+            'category': selectedcat,
+            'optionmetavalue': selectedheadoption,
+            'options': optionsel,
+            'first_name': first_name,
+            'last_name' : last_name,
+            'work_email' : work_email,
+            'company' : company,
+            'country' : country,
+            'phone' : phone,
+            'notes' : notes,
+            'terms1' : terms1,
+            'terms2' : terms2,
+            'save' : 1,
+            'id' : id
+        };
+        
+        $.post(ajaxurl, data, function(response) {
+            var databack = JSON.parse(response);
+                if(databack.status == true)
+                {
+                    window.location.href = landingpage;
+                }
+                else
+                {
+                    $('#response').html(databack.message);
+                }
+        });
+    });
+
+    /******* Go back *******/
+    if($('.mqgs-Form .mqgs-step1').hasClass("is-active")){
+        $('.mqgs-Form .mqgs-step1 .mqgs-back').click(function(){
+            $('.mq-getting-started').css({"display":"none"});
+            $('.mqgs-intro-section').css({"display":"flex"});
+        }
+        );
+    }
+    $(".mqgs-Form .mqgs-step2 .mqgs-back").click(function() {
+        var button1 = $(this);
+        $('.icon11, .icon12, .icon13, .icon14, .icon15, .icon16, .icon17').removeClass("is-active");
+        $('.mqgs-step2').removeClass("is-active").prev().addClass("is-active");
+        $('.mqgs-step3head').empty();
+        $('.mqgs-icon2').removeClass("afterimg");
+        $('.mqgs-step2 .mqgs-nextstep').addClass("inactive");
+    });
+    $(".mqgs-Form .mqgs-step3 .mqgs-back").click(function() {
+        var button1 = $(this);
+        $('.mqgs-step3').removeClass("is-active").prev().addClass("is-active");
+        $('.mqgs-sectionleft, .mqgs-steps').removeClass("nonevis");
+        $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').removeClass("mqgs-fullgrid");
+    });
+
+    $(".mqgs-Form .mqgs-step4 .mqgs-back").click(function() {
+        $('.mqgs-step2').addClass("is-active");
+        var button1 = $(this);
+        $('.mqgs-step4').removeClass("is-active");
+        $('.mqgs-subhead').empty();
+        $('.mqgs-sectionleft, .mqgs-steps').removeClass("nonevis");
+        $('.mqgs-sectiontexts, .mqgs-InputField h2, .mqgs-controls, .mqgs-Form ').removeClass("mqgs-fullgrid");
+        $('.mqgs-Inputfield__row.noteremove, .mqgs-step4 .mqgs-back.mqgs-button, .mqgs-step4 .mqgs-controls .mqgs-submit, .mqgs-step4 .mqgs-dotter-cointainer').css({"display":"flex"});
+
+    });
+    
+}(jQuery));    
+</script>
+<a href="#" id="back-to-top"></a><noscript><style>.lazyload{display:none;}</style></noscript><script data-noptimize="1">window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;</script><script async data-noptimize="1" src='https://memoq-com.azureedge.net/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.0.4'></script><script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/bb-plugin/js/jquery.bxslider.js?ver=2.5.4.3' id='jquery-bxslider-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/uploads/bb-plugin/cache/12-layout.js?ver=8809eb3d685c8f8c8c66c9537dd360cc' id='fl-builder-layout-12-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.memoq.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"8.12.41"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.hs-scripts.com/4746251.js?integration=WordPress&#038;ver=8.12.41' async defer id='hs-script-loader'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/memoq-custom-bb/vendor/owlcarousel/dist/owl.carousel.min.js?ver=20190325' id='owl-carousel-js-js'></script>
+<script type='text/javascript' src='https://memoq-com.azureedge.net/wp-content/plugins/memoq-getting-started/assets/js/gs-core.js?ver=1654505322' id='gs-core-js'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 3.973 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-06-06 10:48:44 -->
+
+<!-- super cache -->
