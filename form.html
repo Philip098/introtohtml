@@ -2,12 +2,7 @@
 <html>
   <head>
     <style>
-      .someee{
-        height: 2px;
-        background-color: RGB(243,188,29);
-        margin-bottom: 0px;
-        width: 100%;
-      }
+     
       .contain{
         display: flex;
         flex-direction: column;
@@ -16,7 +11,15 @@
        background-color: white;
        margin-left: auto;
        margin-right: auto;
-       width: 500px;
+       width: 450px;
+       box-shadow:0px 0px 3px rgba(0, 0, 0, 0.15);
+       padding-bottom: 90px;
+      }
+       .someee{
+        height: 2px;
+        background-color: RGB(243,188,29);
+        margin-bottom: 0px;
+        width: 100%;
       }
       .First{
        
@@ -86,6 +89,25 @@
         padding-left: 10px;
         margin-left: 10px;
         margin-right: 9px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+      }
+      .img1{
+        height: 20px;
+        width: 20px;
+        
+      }
+      .botonsdiv{
+       display: flex; 
+       margin-right: 35px;
+      }
+      .butonss{
+        margin-right: -1px;
+        height:31px;
+        border-radius: 0px;
+        border-width: 1px;
+        border-color: RGB(118,118,118); 
+        border-style: solid;
       }
     </style>
   </head>
@@ -97,12 +119,33 @@
       <div class="form">
         Responsive Registration Form
       </div>
-      <input class="First" type="text" placeholder="Email">
-      <input class="First" type="text" placeholder="Password">
-      <input class="First" type="text" placeholder="Re-type Password">
+      <div class="botonsdiv">
+        <button class="butonss">
+          <img class="img1" src="thumbnails/download.png">
+        </button>
+         <input class="First" type="text" placeholder="Email">
+      </div>
+     <div class="botonsdiv">
+        <button class="butonss">
+          <img class="img1" src="thumbnails/lock.png">
+        </button>
+        <input class="First" type="text" placeholder="Password">
+     </div>
+      <div class="botonsdiv">
+        <button class="butonss">
+          <img class="img1" src="thumbnails/lock.png">
+        </button>
+        <input class="First" type="text" placeholder="Re-type Password">
+      </div>
+      
       <div class="eoeo">
+        <button class="butonss">
+           <img class="img1" src="thumbnails/images.png">
+        </button>
           <input class="last2" type="text" placeholder="First Name">
-          <input class="last" type="text" placeholder="Last Name">
+          <button class="butonss" >
+            <img class="img1" src="thumbnails/images.png">
+         </button><input class="last" type="text" placeholder="Last Name">
       </div>
       <div class="radio">
           <input type="radio" name="cop" ><strong>Male</strong>
