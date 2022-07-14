@@ -1,3 +1,9 @@
+nav ul li{
+  list-style: none;
+  height: 50px;
+  margin-left: 10px;
+  padding-left: 20px;
+}
 .sidebar{
   position: fixed;
   left: 0;
@@ -7,13 +13,10 @@
   background-color: white;
   width:200px;
   z-index: 2;
- vertical-align: center;
 
 }
 .sidebarlink{
- height: 50px;
- margin-left: 10px;
- padding-left: 30px;
+
 }
 .sidebarlink:hover{
   background-color:RGB(75,73,172);
