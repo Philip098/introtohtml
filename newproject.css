@@ -1,0 +1,120 @@
+body{
+  height: 1000px;
+  padding: 0;
+  margin: 0;
+}
+header{
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, .15);
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  width: 100%;
+  background-color:  white;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  display: inline;
+  margin-right: 50px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+nav ul li a:hover{
+  color: RGB(0,123,255);
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+label{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 15px 20px;
+}
+.extradiv{
+  display: flex;
+}
+.button{
+  margin-right: 10px;
+}
+button{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-color:RGB(0,123,255);
+  padding: 9px 25px;
+  color: white;
+  border-radius: 50px;
+  border-style: none;
+  cursor: pointer;
+}
+.header1{
+  font-size: 76px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.homediv{
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  margin:20px 50px;
+  padding:40px 50px;
+  border-bottom: 1px blue solid;
+}
+.imgdiv{
+  height: 700px;
+ 
+
+}
+.imgsdiv{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.text{
+ color: RGB(117,134,165); 
+ font-size: 20px;
+}
+.about{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.imgdivx{
+  height: 400px;
+  width: 50%;
+  object-fit: contain;
+  object-position: center;
+
+}
+h2{
+  text-align: center;
+  font-size: 50px;
+}
+.vision{
+  padding-left: 30px;
+  font-size:30px ;
+  margin-right: 50px;
+
+}
+.services{
+  padding: 40px;
+  margin:20px 50px;
+  border-top: 1px blue solid;
+
+
+}
+h3{
+  font-size: 90px;
+  text-align: center;
+}
+.servicesdiv{
+  font-size: 20px;
+  font-weight: bold;
+}

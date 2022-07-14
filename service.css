@@ -4,8 +4,6 @@ body{
 }
 *{
   font-family: Arial, Helvetica, sans-serif;
-  padding: 0;
-  margin: 0;
   background-color: RGB(248,249,250);
 
 }
@@ -13,15 +11,18 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 200px;
 }
 .Service{
   margin-bottom: 30px;
-  font-size: 20px;
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 .Obviously{
   color:RGB(145,158,175);
-  font-size: 15px;
-  width: 600px;
+  font-size: 20px;
+  width: 600px; 
   text-align: center;
   margin-bottom: 50px;
 }

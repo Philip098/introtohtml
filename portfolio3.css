@@ -1,0 +1,137 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+ 
+}
+
+  label.logo{
+font-size: 50px ;
+margin-left: 100px;
+}
+nav{
+  position: fixed;
+  top:  0;
+  width: 100%;
+  
+}
+nav ul{
+  float: right;
+  line-height: 80px;
+  margin: 0px 50px;
+}
+nav ul li{
+  display: inline;
+  margin: 10px;
+  font-size: 20px;
+  
+}
+nav ul li a:hover{
+  color: RGB(42,144,253);
+}
+a{
+  color: black;
+}
+.subheaderss{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.designer-btn{
+background-color:RGB(255,255,255);
+padding:15px; 
+border-style: none;
+border-radius: 50px;
+font-family: 'Times New Roman', Times, serif;
+box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+margin-bottom: 10px;
+font-size: 15px;
+}
+.Okafor-div{
+   font-size: 70px;
+   margin-bottom: 10px;
+   
+}
+.lasttext{
+  font-size: 18px;
+  width: 790px;
+  margin-bottom: 10px;
+}
+.hire-btn{
+  background-color:RGB(0,123,255);
+  color: white;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-style: none;
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  margin-bottom: 10px;
+  transition: background-color 1s ,color 1s;
+}
+.hire-btn:hover{
+  background-color: white;
+  color: blue;
+}
+.download-btn{
+  background-color:RGB(255,255,255);
+  color: RGB(0,123,255);
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-width: 1px;
+  font-size: 18px;
+  border-color: RGB(0,123,255);
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  transition: background-color 1s, color 1s;
+}
+.download-btn:hover{
+  background-color: RGB(0,123,255);
+  color: white;
+}
+.footercontain{
+  display: flex;
+}
+.footerclasss{
+  display: flex;
+  margin-left: 50px;
+  margin-right: 50px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+  padding: 40px;
+  border-radius: 7px;
+  background-color: white;
+  margin-top: 500px;
+}
+.personal-details{
+  background-color:RGB(248,249,250);
+  border-radius: 10px;
+  padding-top:  20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.text1{
+  font-size: 20px;
+ 
+}
+.contacts{
+  margin-top: 10px;
+  line-height: 30px;
+}
+.abouts{
+  padding: 20px;
+}
+.names{
+  font-family:'Bangers', cursive;
+  font-size: 40px;
+  margin-top: 10px;
+}

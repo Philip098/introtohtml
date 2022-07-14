@@ -1,0 +1,316 @@
+*{
+  font-family: 'Mulish', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+label.checkbtn{
+  cursor: pointer;
+  display: none;
+  position: absolute;
+  right: 0;
+  /*come back*/
+}
+
+ #check{
+  display: none;
+   /*come back*/
+ }
+ 
+nav{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 60px;
+  z-index: 100 ;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, .1);
+ 
+}
+nav ul li{
+  display: inline;
+  margin-right: 80px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+nav label.logo{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.extrasdiv{
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+div.signindiv{
+  font-size: 17px;
+  margin-left: 250px;
+}
+.get-kuda{
+ background-color: RGB(64,25,109);
+ border-radius: 10px;
+ font-weight: 700;
+ font-size: 15px;
+ border-style: none;
+ color: white;
+ padding: 15px 40px;
+ justify-content: center;
+ align-items: center;
+ margin-left: 40px;
+ cursor: pointer;
+ transition: all .4s;
+}
+.get-kuda:hover{
+  margin-bottom: 5px;
+}
+.img1{
+  height: 500px;
+  width: 500px;
+  object-fit: contain;
+  object-position: center;
+}
+.imgdiv{
+  margin-top: 0;
+  display: flex;
+  place-content:right;
+}
+.subheader{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 48px 40px 60px;
+  margin: 65px 84.5px 0px;
+}
+
+div.downloadtext{
+  font-size: 3rem;
+  font-weight: 700;
+  width: 400px;
+  color: RGB(64,25,109);
+  margin: 0px 0px 20px;
+  
+ 
+}
+.subtext{
+  font-size: 20px;
+  width: 400px;
+  margin: 0px 0px 20px;
+}
+.spanelement{
+  color: lightgray;
+  font-size: 15px;
+  display: flex;
+  place-content: left;
+}
+.flexboxes{
+  margin: 20px 150px;
+  padding-bottom: 100px;
+  display: flex;
+  row-gap: 20px;
+  justify-content: space-between;
+}
+.flexboximg{
+  height: 20px;
+  width: 20px;
+  display: block;
+  margin-bottom: 10px;
+  
+}
+.box{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, .1);
+  border-radius: 10px;
+  padding: 30px;
+  margin-right: 20px;
+  width: 550px;
+  color: RGB(64,25,109);
+  font-weight: bold;
+
+}
+
+.footer-brand{
+margin: 0px 30px 0px 0px;
+font-size: 25px;
+font-weight: 900;
+color: RGB(64,25,109);
+}
+.footer-header{
+  font: 14px  'Mulish', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: RGB(64,25,109);
+  display: flex;
+}
+ul.kuda-footer{
+  margin: 20px 0px 0px;
+  
+}
+a.anchorkuda{
+  color: black;
+}
+.anchortag{
+  color: RGB(64,25,109);
+  text-decoration: underline;
+  font-weight: bold;
+}
+li{
+  margin: 0px 0px 20px;
+}
+.kuda-footer-col{
+  margin-right: 100px;
+}
+footer.kuda-footer{
+  border-top: 1px solid RGB(239,241,255);
+  margin: 80px 0px 42px;
+  padding: 67px 0px 21px;
+}
+footer .kuda-footernav{
+  display: flex;
+  justify-content: center;
+}
+.kudaimg{
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  object-position: center;
+}
+.kudaimgdiv{
+  margin-left: 190px;
+ 
+}
+.footer-contact{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60.2px 0px;
+ 
+}
+.containerx{
+  padding: 0px 60px;
+  margin: 0px 84px;
+}
+
+.textinfo{
+  color: RGB(64,25,109);
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.textaddress{
+  width: 200px;
+  font-size: 13px;
+}
+.kuda-footer-conditions{
+  color: RGB(162,162,162);
+  font-size: 13px;
+
+}
+.conditions-container{
+  margin:0px 84px ;
+  padding:0px 60px;
+}
+.cond2{
+  margin: 0px 0px 21px ;
+  width: fit-content;
+}
+.sticky{
+  width: 35%;
+  border: 1px solid lightgray;
+  position: fixed;
+  bottom: 40px;
+  left: 35%;
+  background-color: white;
+  padding: 20px 10px 20px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, .15);
+
+}
+.stickyanchor{
+  color: RGB(64,25,109);
+  text-decoration: underline;
+}
+@media(max-width: 1000px){
+  .extrasdiv{
+    display: none;
+  }
+  label.checkbtn{
+    display: block;
+    place-content: right;
+    font-size: 50px;
+  }
+ nav a.logox{
+  font-size: 50px;
+  font-weight: 900;
+ }
+ nav ul {
+  position: fixed ;
+  text-align: center;
+  width: 100%;
+  right: -100%;
+  transition: all .5s;
+  top: 80px;
+  height:100vh;
+  background-color: RGB(64,25,109);
+  padding: 1em;
+ }
+ nav ul li{
+  display: block;
+  line-height: 30px;
+  margin-top: 50px;
+ }
+ nav ul li a{
+  font-size: 25px;
+  color: white;
+ }
+ #check:checked~ul{
+  right: 0;
+ }
+ div.downloadtext{
+  font-weight: 900;
+  width: 350px;
+ }
+ .subheader{
+  padding: 40px 40px 55px;
+  margin: 80px 0px 0px;
+ }
+ .img1{
+  width: 180%;
+ }
+ .flexboxes{
+  width: 100%;
+  box-sizing: border-box;
+ }
+ .box{
+  font-weight: 900;
+ }
+ footer .kuda-footernav{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+ 
+ }
+ .footer-brand{
+  display: block;
+  
+ }
+  .containerx{
+    width: 100%;
+  }
+  .conditions-container{
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+

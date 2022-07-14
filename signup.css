@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url(../intro-to-html/thumbnails/download.jpg);
+
+}
+.container{
+  margin: 40px 300px ;
+  position: relative;
+}
+.header{
+  text-align: center;
+  font-size: 30px;
+  border-bottom: 1px blue solid ;
+  
+
+}
+.inputfield{
+align-items: center;
+justify-content: center;
+display: flex;
+flex-wrap: wrap;
+
+}
+.extrainput{
+display: flex;
+position: absolute;
+right: 0;
+}
+input.input{
+  width: 350px;
+  padding: .8em;
+  margin: 15px auto;
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: white;
+}
+input.input::placeholder{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+.extrainputdiv{
+  padding: 9px 25px;
+  margin-right: 5px;
+  background-color: RGB(0,123,255);
+  color: white;
+  border-radius: 50px;
+  border: 1px solid;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+}
+

@@ -1,0 +1,309 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.containall{
+  margin:65px 0px 84px 84px ;
+  padding: 48px 60px 40px 40px;
+}
+body{
+  height: 1000px;
+  background: RGB(248,249,250);
+}
+nav{
+  background:RGB(248,249,250);
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 30;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, .15);
+}
+nav label.logo{
+ font-size: 50px;
+ padding: 0px 100px;
+ line-height: 80px;
+}
+nav ul{
+ float: right; 
+ margin-right: 20px;
+
+}
+nav ul li{
+ display: inline-block;
+ line-height: 80px;
+ margin:0 10px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  transition: color .2s;
+}
+nav ul li a:hover{
+  color: RGB(87,123,255);
+}
+#check{
+  display: none;
+}
+.checkboxbtn{
+  float: right;
+  line-height: 80px;
+  font-size: 20px;
+  margin-top: 5px;
+  cursor: pointer;
+  margin-right: 40px;
+  display: none;
+}
+@media (max-width: 952px){
+  nav label.logo{
+    font-size: 65px;
+    padding-left: 50px;
+  }
+  nav ul li a{
+    font-size: 20px;
+  }
+}
+@media (max-width: 858px){
+  .checkboxbtn{
+    display: block;
+  }
+  ul{
+    position: fixed;
+    height:100vh ;
+    width:100% ;
+    background: RGB(87,123,255);
+    top: 80px;
+    left: -100%;
+    transition: all .5s; 
+    text-align: center;
+  }
+  nav ul li{
+    display:block;
+  }
+  nav ul li a{
+    font-size: 23px;
+  }
+  #check:checked ~ ul{
+    left: 0;
+  }
+ 
+}
+.headers{
+  margin-top: 90px;
+}
+.designer-btn{
+  background-color:RGB(255,255,255);
+  padding:15px; 
+  border-style: none;
+  border-radius: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.Okafor-div{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.lasttext{
+  font-size: 18px;
+  width: 790px;
+  margin-bottom: 10px;
+}
+.hire-btn{
+  background-color:RGB(0,123,255);
+  color: white;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-style: none;
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  margin-bottom: 10px;
+  transition: background-color .3s ,color .3s;
+}
+.hire-btn:hover{
+  background-color: white;
+  color: blue;
+}
+.download-btn{
+  background-color:RGB(255,255,255);
+  color: RGB(0,123,255);
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-width: 1px;
+  font-size: 18px;
+  border-color: RGB(0,123,255);
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  transition: background-color .3s, color .3s;
+}
+.download-btn:hover{
+  background-color: RGB(0,123,255);
+  color: white;
+}
+.personal-detailscontain{
+  display: flex;
+ justify-content: space-between;
+ align-items: center;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+  padding: 40px;
+  border-radius: 7px;
+  background-color: lightblue;
+  margin-top: 300px;
+  
+}
+.personal-details{
+  padding: 50px;
+  border-radius: 7px;
+}
+.text1{
+  font-size: 30px;
+  width: bold;
+}
+.iam-div{
+  font-size: 30px;
+  width: bold;
+}
+.text2{
+  font-size: 20px;
+  
+}
+.text3{
+  font-size: 20px;
+  color:RGB(135,135,145);
+}
+.name{
+font-family: 'Bangers', cursive;
+font-size: 40px;
+margin-top: 10px;
+}
+.img-desktop{
+  display: block;
+  height: 30px;
+}
+.subheader{
+  width: 300px;
+  background-color: white;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  padding: 20px 25px;
+  box-shadow: 1px 1px 8px rgb(0, 0, 0, .10);
+  border-radius: 10px;
+  
+}
+.Service{
+    margin-bottom: 30px;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+.Obviouslydiv{
+  color: RGB(145,158,175);
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.labelxx{
+ font-size: 27px;
+ margin-bottom: 20px;
+}
+.coding{
+  font-size: 20px;
+  color: lightgray;
+}
+.mainsubheader{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.div-work{
+  margin-top: 60px;
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+.div-participation{
+  font-size: 100px;
+  font-weight: bold;
+  color: blue;
+}
+.abouttt{
+  font-size: 20px;
+  
+}
+.jobdetailsdiv{
+    display: flex;
+    flex-direction: column;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: lightgrey;
+    margin-right: 200px;
+    padding: 20px;
+    margin:50px ;
+}
+.job {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0px 10px 10px;
+}
+.job-details{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.year {
+  border-style: none;
+  border-radius: 5px;
+  background-color: RGB(235,245,255);
+  color: RGB(33,122,230);
+  padding: 5px 5px;
+  margin-right: 40px;
+}
+.company {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.info {
+  color: lightgray;
+  width: 500px;
+}
+.footerdiv{
+  border-top: 1px solid blue;
+  background-color: bisque;
+  border-radius: 5px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 100px;
+  color: blue;
+  text-align: center;
+}
+.projectsss{
+  font-size: 50px;
+  margin-bottom: 10px;
+  
+}
+.buttons{
+  color: lightblue;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 10px 30px;
+  background-color: blue;
+  border-style: dashed;
+  border-radius: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.lastext,.freelancer,.mail,.uldeck{
+  font-size: 20px;
+}
+    
+
+

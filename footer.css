@@ -1,0 +1,61 @@
+.footercontain{
+  margin-top: 500px;
+  display: block;
+
+}
+.headers{
+  background-color: RGB(53,173,132);
+  padding: 20px;
+  margin: 0px 200px 100px;
+  border-radius: 5px;
+ 
+}
+.projectsss{
+  color: white;
+  font-size: 40px;
+  margin-bottom: 30px;
+  font-family: 'Times New Roman', Times, serif;
+ 
+}
+.buttons{
+ background-color: white;
+ font-weight: bold;
+ font-size: 15px;
+ color: RGB(135,195,181);
+ border-style: none;
+ padding: 10px 20px;
+ border-radius: 5px;
+}
+.btn-classsss{
+   margin-left: 800px;
+
+}
+.lastext{
+  width: 600px;
+  color: white;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.footerdiv{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+.freelancer{
+  font-size: 20px;
+  margin-bottom: 90px;
+}
+.mail{
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 90px;
+
+}
+.uldeck{
+  font-size: 20px;
+
+}

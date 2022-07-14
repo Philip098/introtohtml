@@ -1,0 +1,53 @@
+body{
+  background: url(../intro-to-html/thumbnails/download.jpg) ;
+  margin: 0;
+  padding: 0;
+ 
+}
+.containall{
+display: flex;
+margin: 2px 300px ;
+border-radius: 10px;
+background-color: aliceblue;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.inputfields{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.input{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  width: 50%;
+  margin: 15px auto;
+  padding: .8em;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: grey solid 1px;
+  background-color: white;
+}
+.input::placeholder{
+  color: black;
+}
+.Submit{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  width: 50%;
+  margin: 15px auto;
+  padding: .8em;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: grey solid 1px;
+  color: white;
+  background-color:RGB(0,123,255);
+  cursor: pointer;
+}

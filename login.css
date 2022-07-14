@@ -1,0 +1,44 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: lightblue;
+}
+.containall{
+  display: flex;
+  margin: 2px 300px ;
+  border-radius: 10px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.inputfields{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+.input{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  margin: 15px auto;
+  padding: .8em;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: grey solid 1px;
+  background-color: white;
+}
+.loginbtn{
+  padding: 9px 25px;
+  margin-right: 5px;
+  background-color: RGB(0,123,255);
+  color: white;
+  border-radius: 50px;
+  border: 1px solid;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+}
